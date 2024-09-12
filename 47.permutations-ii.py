@@ -5,6 +5,23 @@
 #
 
 # @lc code=start
+def bt(ans, path, nums, used):
+    if len(path) == len(nums):
+        ans.append(path[:])
+        return 
+
+    for i in range(len(nums)):
+        # [1, 1, 2] 碰到第二个1时， skip它， 此时第一个1是还没有被选过
+        if i > 0 and nums[i] == nums[i-1] and used[i-1] == False:
+            continue 
+        if not used[i]:
+            used[i] = True 
+            path.append(nums[i])
+            bt(ans, path, nums, used)
+            path.pop()
+            used[i] = False
+
+
 def bt(ans, permutation, N, nums, is_used):
     if len(permutation) == N:
         ans.append(permutation.copy())
