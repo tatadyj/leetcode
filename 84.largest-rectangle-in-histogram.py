@@ -7,6 +7,24 @@
 # @lc code=start
 from typing import List 
 
+def short():
+    heights.append(0)
+    heights.insert(0,0)
+    stack = []
+    res = 0
+    for i in range(len(heights)):
+        while stack and heights[stack[-1]] > heights[i]:
+            idx = stack.pop()
+            h = heights[idx]
+            right_smaller = i
+            if stack:
+                left_smaller = stack[-1]
+                res = max(res, h * (right_smaller - left_smaller - 1))
+        
+        stack.append(i)
+
+    return res 
+
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         # Monotonic Stack
