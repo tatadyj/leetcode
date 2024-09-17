@@ -58,21 +58,13 @@ class Solution:
 
         left = min(nums)
         right = max(nums)
-        while left + 1 < right:
-            mid = (left + right) // 2
+        while left < right:
+            mid = (left + right) // 2 + 1
             if count_larger_or_equal(mid) >= k:
                 left = mid 
             else: # < k
-                right = mid 
-
-        # left < right 
-        # 如果left是==k，right可能不是是解
-        # 如果left是==k，right也可能是解
-        # 所以优先判断right
-        if count_larger_or_equal(right) == k:
-            return right
-        else:
-            return left
+                right = mid - 1
+        return left
         
 # @lc code=end
 
