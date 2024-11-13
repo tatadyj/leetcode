@@ -2,7 +2,11 @@
 ### find kth element
 [3134. Find the Median of the Uniqueness Array]()
 [3116. Kth Smallest Amount With Single Denomination Combination]()
-[1539. Kth Missing Positive Number]()
+
+[1539. Kth Missing Positive Number](https://github.com/tatadyj/leetcode/tree/main/1539.kth-missing-positive-number)
+
+[1060. Missing Element in Sorted Array]()
+
 [1201. Ugly Number III]()
 [786. K-th Smallest Prime Fraction]()
 [668. Kth Smallest Number in Multiplication Table]()
@@ -44,18 +48,19 @@
 [1891*. Cutting Ribbons]()
 [1870. Minimum Speed to Arrive on Time]()
 [1802. Maximum Value at a Given Index in a Bounded Array]()
-[1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold]()
 [1011. Capacity To Ship Packages Within D Days]()
 [875. Koko Eating Bananas]()
 
 
 ### Search By Value
 
-[774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (H)
+[774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
 
 [1231*. Divide Chocolate](https://github.com/tatadyj/leetcode/tree/main/1231.divide-chocolate) (E)
 
 [1283. Find the Smallest Divisor Given a Threshold](https://github.com/tatadyj/leetcode/tree/main/1283.find-the-smallest-divisor-given-a-threshold) (E)
+
+[1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/tatadyj/leetcode/tree/main/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) (M)
 
 [1482. Minimum Number of Days to Make m Bouquets](https://github.com/tatadyj/leetcode/tree/main/1482.minimum-number-of-days-to-make-m-bouquets) (E)
 
