@@ -44,13 +44,19 @@
 [1891*. Cutting Ribbons]()
 [1870. Minimum Speed to Arrive on Time]()
 [1802. Maximum Value at a Given Index in a Bounded Array]()
-[1482. Minimum Number of Days to Make m Bouquets]()
 [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold]()
-[1231*. Divide Chocolate]()
 [1011. Capacity To Ship Packages Within D Days]()
 [875. Koko Eating Bananas]()
 
 
 ### Search By Value
 
-[1552. Magnetic Force Between Two Balls](https://github.com/tatadyj/leetcode/tree/main/1552.magnetic-force-between-two-balls)
+[774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (H)
+
+[1231*. Divide Chocolate](https://github.com/tatadyj/leetcode/tree/main/1231.divide-chocolate) (E)
+
+[1283. Find the Smallest Divisor Given a Threshold]() (E)
+
+[1482. Minimum Number of Days to Make m Bouquets](https://github.com/tatadyj/leetcode/tree/main/1482.minimum-number-of-days-to-make-m-bouquets) (E)
+
+[1552. Magnetic Force Between Two Balls](https://github.com/tatadyj/leetcode/tree/main/1552.magnetic-force-between-two-balls) (E)

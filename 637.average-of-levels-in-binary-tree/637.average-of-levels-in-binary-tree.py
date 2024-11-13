@@ -12,27 +12,22 @@
 #         self.left = left
 #         self.right = right
 from collections import deque
-
 class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
-        # bfs
-        ans = []
         if not root:
-            return ans
+            return []
 
+        ans = []
         queue = deque([root])
         while queue:
             size = len(queue)
-            level = []
+            total = 0
             for _ in range(size):
                 curr = queue.popleft()
-                level.append(curr.val)
-
-                if curr.left:
-                    queue.append(curr.left)
-                if curr.right:
-                    queue.append(curr.right)
-            ans.append(sum(level)/size)
+                total += curr.val
+                if curr.left: queue.append(curr.left)
+                if curr.right: queue.append(curr.right)
+            ans.append(total/size)
         return ans
 
 # @lc code=end

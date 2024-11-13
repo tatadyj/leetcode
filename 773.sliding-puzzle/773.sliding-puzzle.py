@@ -5,57 +5,39 @@
 #
 
 # @lc code=start
-from typing import List 
-from collections import deque
-
 class Solution:
     def slidingPuzzle(self, board: List[List[int]]) -> int:
-        nrows, ncols = len(board), len(board[0])
-        s = ''
-        for i in range(nrows):
-            for j in range(ncols):
-                s += str(board[i][j])
-
-        goal_str = '123450'
-
+        target_state = '123450'
+        init_state = ''.join([str(b) for b in board[0]]) + ''.join([str(b) for b in board[1]])
+        if init_state == target_state:
+            return 0
         queue = deque()
-        visited = set()
-        dirs = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        queue.append((init_state, 0))
+        visited = set(init_state)
+        dir = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        def swap(string, i, j):
+            s = list(string)
+            s[i], s[j] = s[j], s[i]
+            return ''.join(s)
 
-        queue.append(s)
-        visited.add(s)
-        
-        step = 0 
         while queue:
-
             size = len(queue)
             for _ in range(size):
-                curr_str = queue.popleft()
-                if curr_str == goal_str:
-                    return step 
+                curr_state, level = queue.popleft()
+                for dx, dy in dir:
+                    idx = curr_state.index('0')
+                    x, y = idx // 3, idx % 3
+                    nxt_x, nxt_y = x + dx, y + dy 
+                    if nxt_x < 0 or nxt_x >= 2 or nxt_y < 0 or nxt_y >= 3: continue 
+                    nxt_idx = nxt_x * 3 + nxt_y
+                    nxt_state = swap(curr_state, idx, nxt_idx)
+                    if nxt_state in visited: continue 
+                    if nxt_state == target_state:
+                        return level + 1 
+                    queue.append((nxt_state, level+1))
+                    visited.add(nxt_state)
+        return -1
 
-                # get '0'
-                idx = curr_str.index('0')
-                row_idx = idx // ncols
-                col_idx = idx % ncols 
-
-                for dir in dirs:
-                    delta_row, delta_col = dir 
-                    new_row_idx = row_idx + delta_row 
-                    new_col_idx = col_idx + delta_col 
-
-                    if 0 <= new_row_idx <= nrows - 1 and 0 <= new_col_idx <= ncols - 1:
-                        new_idx = new_row_idx * ncols + new_col_idx 
-                        curr = list(curr_str)
-                        curr[idx], curr[new_idx] = curr[new_idx], curr[idx]
-                        temp_str = ''.join(curr)
-
-                        if  temp_str not in visited:
-                            queue.append(temp_str)
-                            visited.add(temp_str)
-            step += 1
-
-        return -1 
         
 #print(Solution().slidingPuzzle([[4,1,2],[5,0,3]]))
 # @lc code=end
