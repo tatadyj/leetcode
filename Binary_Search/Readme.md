@@ -55,7 +55,7 @@
 
 [1231*. Divide Chocolate](https://github.com/tatadyj/leetcode/tree/main/1231.divide-chocolate) (E)
 
-[1283. Find the Smallest Divisor Given a Threshold]() (E)
+[1283. Find the Smallest Divisor Given a Threshold](https://github.com/tatadyj/leetcode/tree/main/1283.find-the-smallest-divisor-given-a-threshold) (E)
 
 [1482. Minimum Number of Days to Make m Bouquets](https://github.com/tatadyj/leetcode/tree/main/1482.minimum-number-of-days-to-make-m-bouquets) (E)
 
