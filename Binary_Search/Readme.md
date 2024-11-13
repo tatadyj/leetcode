@@ -54,6 +54,8 @@
 
 ### Search By Value
 
+[410. Split Array Largest Sum]()
+
 [774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
 
 [1231*. Divide Chocolate](https://github.com/tatadyj/leetcode/tree/main/1231.divide-chocolate) (E)
