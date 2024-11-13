@@ -49,3 +49,8 @@
 [1231*. Divide Chocolate]()
 [1011. Capacity To Ship Packages Within D Days]()
 [875. Koko Eating Bananas]()
+
+
+### Search By Value
+
+[1552. Magnetic Force Between Two Balls](https://github.com/tatadyj/leetcode/tree/main/1552.magnetic-force-between-two-balls)
