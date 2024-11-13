@@ -3,9 +3,9 @@
 [3134. Find the Median of the Uniqueness Array]()
 [3116. Kth Smallest Amount With Single Denomination Combination]()
 
-[1539. Kth Missing Positive Number](https://github.com/tatadyj/leetcode/tree/main/1539.kth-missing-positive-number)
+[1539. Kth Missing Positive Number](https://github.com/tatadyj/leetcode/tree/main/1539.kth-missing-positive-number) (M)
 
-[1060. Missing Element in Sorted Array]()
+[1060. Missing Element in Sorted Array](https://github.com/tatadyj/leetcode/tree/main/1060.missing-element-in-sorted-array) (M, aka LC 1539)
 
 [1201. Ugly Number III]()
 [786. K-th Smallest Prime Fraction]()
