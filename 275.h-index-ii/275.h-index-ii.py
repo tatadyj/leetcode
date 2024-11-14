@@ -7,26 +7,20 @@
 # @lc code=start
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
-        def is_valid(val):
-            idx = bisect_left(citations, val)
-            if len(citations) - idx >= val:
-                return True 
-            else:
-                return False 
-                
+        n = len(citations)     
         left = 0 
-        right = max(citations)
+        right = n - 1
 
-        while left + 1 < right:
+        while left < right:
             mid = (left + right) // 2
-            if is_valid(mid):
-                left = mid 
-            else:
+            if citations[mid] >= n - mid: # 引用数 >= 篇数， 符合定义但是不是最大篇数
                 right = mid 
+            else: # citations[mid] < n - mid 引用数 < 篇数 不符合定义
+                left = mid + 1
 
-        if is_valid(right):
-            return right 
+        if citations[left] >= n - left:
+            return n - left 
         else:
-            return left        
+            return 0      
 # @lc code=end
 
