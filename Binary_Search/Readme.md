@@ -5,7 +5,11 @@
 
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/tatadyj/leetcode/tree/main/378.kth-smallest-element-in-a-sorted-matrix) (M)
 
+[668. Kth Smallest Number in Multiplication Table](https://github.com/tatadyj/leetcode/tree/main/668.kth-smallest-number-in-multiplication-table) (M, aka LC 378)
+
 [719. Find K-th Smallest Pair Distance](https://github.com/tatadyj/leetcode/tree/main/719.find-k-th-smallest-pair-distance) (M)
+
+[786. K-th Smallest Prime Fraction](https://github.com/tatadyj/leetcode/tree/main/786.k-th-smallest-prime-fraction) (M)
 
 [1918*. Kth Smallest Subarray Sum](https://github.com/tatadyj/leetcode/tree/main/1918.kth-smallest-subarray-sum) (E)
 
@@ -16,18 +20,16 @@
 
 [1060. Missing Element in Sorted Array](https://github.com/tatadyj/leetcode/tree/main/1060.missing-element-in-sorted-array) (M, aka LC 1539)
 
+[2040. Kth Smallest Product of Two Sorted Arrays](https://github.com/tatadyj/leetcode/tree/main/2040.kth-smallest-product-of-two-sorted-arrays) (H)
+
 [3116. Kth Smallest Amount With Single Denomination Combination]() (H)
 
 [3134. Find the Median of the Uniqueness Array](https://github.com/tatadyj/leetcode/tree/main/3134.find-the-median-of-the-uniqueness-array) (H)
 
 
 [1201. Ugly Number III]()
-[786. K-th Smallest Prime Fraction]()
-[668. Kth Smallest Number in Multiplication Table]()
-[378. Kth Smallest Element in a Sorted Matrix]()
 [240. Search a 2D Matrix II]()
 
-[2040. Kth Smallest Product of Two Sorted Arrays]()
 [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows]()
 [719. Find K-th Smallest Pair Distance]()
 [373. Find K Pairs with Smallest Sums]()
@@ -65,8 +67,6 @@
 
 ### Search By Value
 
-[275. H-Index II]()
-
 [410. Split Array Largest Sum](https://github.com/tatadyj/leetcode/tree/main/410.split-array-largest-sum)
 
 [774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
@@ -88,6 +88,10 @@
 [1552. Magnetic Force Between Two Balls](https://github.com/tatadyj/leetcode/tree/main/1552.magnetic-force-between-two-balls) (E)
 
 ### Search index 
+
+[275. H-Index II](https://github.com/tatadyj/leetcode/tree/main/275.h-index-ii)
+
+[436. Find Right Interval]() 
 
 [475. Heaters](https://github.com/tatadyj/leetcode/tree/main/475.heaters) 
 
