@@ -11,12 +11,15 @@
 
 
 
-[3134. Find the Median of the Uniqueness Array]()
-[3116. Kth Smallest Amount With Single Denomination Combination]()
 
 [1539. Kth Missing Positive Number](https://github.com/tatadyj/leetcode/tree/main/1539.kth-missing-positive-number) (M)
 
 [1060. Missing Element in Sorted Array](https://github.com/tatadyj/leetcode/tree/main/1060.missing-element-in-sorted-array) (M, aka LC 1539)
+
+[3116. Kth Smallest Amount With Single Denomination Combination]() (H)
+
+[3134. Find the Median of the Uniqueness Array](https://github.com/tatadyj/leetcode/tree/main/3134.find-the-median-of-the-uniqueness-array) (H)
+
 
 [1201. Ugly Number III]()
 [786. K-th Smallest Prime Fraction]()
@@ -62,9 +65,13 @@
 
 ### Search By Value
 
+[275. H-Index II]()
+
 [410. Split Array Largest Sum](https://github.com/tatadyj/leetcode/tree/main/410.split-array-largest-sum)
 
 [774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
+
+[911. Online Election](https://github.com/tatadyj/leetcode/tree/main/911.online-election)
 
 [1011. Capacity To Ship Packages Within D Days](https://github.com/tatadyj/leetcode/tree/main/1011.capacity-to-ship-packages-within-d-days) (E)
 
@@ -79,3 +86,9 @@
 [1482. Minimum Number of Days to Make m Bouquets](https://github.com/tatadyj/leetcode/tree/main/1482.minimum-number-of-days-to-make-m-bouquets) (E)
 
 [1552. Magnetic Force Between Two Balls](https://github.com/tatadyj/leetcode/tree/main/1552.magnetic-force-between-two-balls) (E)
+
+### Search index 
+
+[475. Heaters](https://github.com/tatadyj/leetcode/tree/main/475.heaters) 
+
+[911. Online Election](https://github.com/tatadyj/leetcode/tree/main/911.online-election)
