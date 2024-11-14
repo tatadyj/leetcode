@@ -13,40 +13,36 @@
 
 [1918*. Kth Smallest Subarray Sum](https://github.com/tatadyj/leetcode/tree/main/1918.kth-smallest-subarray-sum) (E)
 
-
-
-
 [1539. Kth Missing Positive Number](https://github.com/tatadyj/leetcode/tree/main/1539.kth-missing-positive-number) (M)
 
 [1060. Missing Element in Sorted Array](https://github.com/tatadyj/leetcode/tree/main/1060.missing-element-in-sorted-array) (M, aka LC 1539)
 
 [2040. Kth Smallest Product of Two Sorted Arrays](https://github.com/tatadyj/leetcode/tree/main/2040.kth-smallest-product-of-two-sorted-arrays) (H)
 
-[3116. Kth Smallest Amount With Single Denomination Combination]() (H)
-
 [3134. Find the Median of the Uniqueness Array](https://github.com/tatadyj/leetcode/tree/main/3134.find-the-median-of-the-uniqueness-array) (H)
 
 [1201. Ugly Number III](https://github.com/tatadyj/leetcode/tree/main/1201.ugly-number-iii) (M)
 
-[878. Nth Magical Number]() (M, aka LC 1201)
+[878. Nth Magical Number](https://github.com/tatadyj/leetcode/tree/main/878.nth-magical-number) (M, similar to LC 1201)
+
+[3116. Kth Smallest Amount With Single Denomination Combination](https://github.com/tatadyj/leetcode/tree/main/3116.kth-smallest-amount-with-single-denomination-combination) (H, similar to LC 1201)
 
 [240. Search a 2D Matrix II]()
 
+
+
 [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows]()
-[719. Find K-th Smallest Pair Distance]()
 [373. Find K Pairs with Smallest Sums]()
-[215. Kth Largest Element in an Array]()
 [287. Find the Duplicate Number]()
 373.Find-K-Pairs-with-Smallest-Sums (H)
 668.Kth-Smallest-Number-in-Multiplication-Table (H-)
 1918.Kth-Smallest-Subarray-Sum (M+)
 2040.Kth-Smallest-Product-of-Two-Sorted-Arrays (H-)
-1439.Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows (H)
-786.Kth-Smallest-Prime-Fraction (H-)
+
 911.Preimage-Size-of-Factorial-Zeroes-Function (H-)
 1539.Kth-Missing-Positive-Number (H-)
 2387.Median-of-a-Row-Wise-Sorted-Matrix (H-)
-3116.Kth-Smallest-Amount-With-Single-Denomination-Combination (H)
+
 [3134. Find the Median of the Uniqueness Array]()
 
 
@@ -77,6 +73,8 @@
 [1011. Capacity To Ship Packages Within D Days](https://github.com/tatadyj/leetcode/tree/main/1011.capacity-to-ship-packages-within-d-days) (E)
 
 [1231*. Divide Chocolate](https://github.com/tatadyj/leetcode/tree/main/1231.divide-chocolate) (E)
+
+[1237. Find Positive Integer Solution for a Given Equation]() (M)
 
 [1283. Find the Smallest Divisor Given a Threshold](https://github.com/tatadyj/leetcode/tree/main/1283.find-the-smallest-divisor-given-a-threshold) (E)
 
