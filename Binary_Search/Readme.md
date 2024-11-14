@@ -26,8 +26,10 @@
 
 [3134. Find the Median of the Uniqueness Array](https://github.com/tatadyj/leetcode/tree/main/3134.find-the-median-of-the-uniqueness-array) (H)
 
+[1201. Ugly Number III](https://github.com/tatadyj/leetcode/tree/main/1201.ugly-number-iii) (M)
 
-[1201. Ugly Number III]()
+[878. Nth Magical Number]() (M, aka LC 1201)
+
 [240. Search a 2D Matrix II]()
 
 [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows]()
@@ -42,7 +44,6 @@
 1439.Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows (H)
 786.Kth-Smallest-Prime-Fraction (H-)
 911.Preimage-Size-of-Factorial-Zeroes-Function (H-)
-1201.Ugly-Number-III (H-)
 1539.Kth-Missing-Positive-Number (H-)
 2387.Median-of-a-Row-Wise-Sorted-Matrix (H-)
 3116.Kth-Smallest-Amount-With-Single-Denomination-Combination (H)
@@ -91,8 +92,10 @@
 
 [275. H-Index II](https://github.com/tatadyj/leetcode/tree/main/275.h-index-ii)
 
-[436. Find Right Interval]() 
+[436. Find Right Interval](https://github.com/tatadyj/leetcode/tree/main/436.find-right-interval) 
 
 [475. Heaters](https://github.com/tatadyj/leetcode/tree/main/475.heaters) 
 
 [911. Online Election](https://github.com/tatadyj/leetcode/tree/main/911.online-election)
+
+[1157. Online Majority Element In Subarray]()
