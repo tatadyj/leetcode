@@ -59,7 +59,6 @@
 [1870. Minimum Speed to Arrive on Time]()
 [1802. Maximum Value at a Given Index in a Bounded Array]()
 
-[875. Koko Eating Bananas]()
 
 
 ### Search By Value
@@ -68,13 +67,15 @@
 
 [774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
 
+[875. Koko Eating Bananas](https://github.com/tatadyj/leetcode/tree/main/875.koko-eating-bananas) (E)
+
 [911. Online Election](https://github.com/tatadyj/leetcode/tree/main/911.online-election)
 
 [1011. Capacity To Ship Packages Within D Days](https://github.com/tatadyj/leetcode/tree/main/1011.capacity-to-ship-packages-within-d-days) (E)
 
 [1231*. Divide Chocolate](https://github.com/tatadyj/leetcode/tree/main/1231.divide-chocolate) (E)
 
-[1237. Find Positive Integer Solution for a Given Equation]() (M)
+[1237. Find Positive Integer Solution for a Given Equation](https://github.com/tatadyj/leetcode/tree/main/1237.find-positive-integer-solution-for-a-given-equation) (M)
 
 [1283. Find the Smallest Divisor Given a Threshold](https://github.com/tatadyj/leetcode/tree/main/1283.find-the-smallest-divisor-given-a-threshold) (E)
 
@@ -97,3 +98,5 @@
 [911. Online Election](https://github.com/tatadyj/leetcode/tree/main/911.online-election)
 
 [1157. Online Majority Element In Subarray]()
+
+[1818. Minimum Absolute Sum Difference]()

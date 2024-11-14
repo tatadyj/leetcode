@@ -17,6 +17,14 @@
 """
 class Solution:
     def findSolution(self, customfunction: 'CustomFunction', z: int) -> List[List[int]]:
+        """
+        以下也是可以的
+                if customfunction.f(x, y) > z:
+                    right = y - 1
+                else:
+                    left = y 
+        """
+       
         ans = []
         for x in range(1, 1001):
             left, right = 1, 1001
