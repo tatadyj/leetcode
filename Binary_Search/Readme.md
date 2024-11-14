@@ -1,5 +1,16 @@
 
 ### find kth element
+
+[215. Kth Largest Element in an Array](https://github.com/tatadyj/leetcode/tree/main/215.kth-largest-element-in-an-array) (E)
+
+[378. Kth Smallest Element in a Sorted Matrix](https://github.com/tatadyj/leetcode/tree/main/378.kth-smallest-element-in-a-sorted-matrix) (M)
+
+[719. Find K-th Smallest Pair Distance](https://github.com/tatadyj/leetcode/tree/main/719.find-k-th-smallest-pair-distance) (M)
+
+[1918*. Kth Smallest Subarray Sum](https://github.com/tatadyj/leetcode/tree/main/1918.kth-smallest-subarray-sum) (E)
+
+
+
 [3134. Find the Median of the Uniqueness Array]()
 [3116. Kth Smallest Amount With Single Denomination Combination]()
 
@@ -15,15 +26,12 @@
 
 [2040. Kth Smallest Product of Two Sorted Arrays]()
 [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows]()
-[1918. Kth Smallest Subarray Sum]()
 [719. Find K-th Smallest Pair Distance]()
 [373. Find K Pairs with Smallest Sums]()
 [215. Kth Largest Element in an Array]()
 [287. Find the Duplicate Number]()
-378.Kth-Smallest-Element-in-a-Sorted-Matrix (H-)
 373.Find-K-Pairs-with-Smallest-Sums (H)
 668.Kth-Smallest-Number-in-Multiplication-Table (H-)
-719.Find-Kth-Smallest-Pair-Distance (H-)
 1918.Kth-Smallest-Subarray-Sum (M+)
 2040.Kth-Smallest-Product-of-Two-Sorted-Arrays (H-)
 1439.Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows (H)
@@ -48,21 +56,25 @@
 [1891*. Cutting Ribbons]()
 [1870. Minimum Speed to Arrive on Time]()
 [1802. Maximum Value at a Given Index in a Bounded Array]()
-[1011. Capacity To Ship Packages Within D Days]()
+
 [875. Koko Eating Bananas]()
 
 
 ### Search By Value
 
-[410. Split Array Largest Sum]()
+[410. Split Array Largest Sum](https://github.com/tatadyj/leetcode/tree/main/410.split-array-largest-sum)
 
 [774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
+
+[1011. Capacity To Ship Packages Within D Days](https://github.com/tatadyj/leetcode/tree/main/1011.capacity-to-ship-packages-within-d-days) (E)
 
 [1231*. Divide Chocolate](https://github.com/tatadyj/leetcode/tree/main/1231.divide-chocolate) (E)
 
 [1283. Find the Smallest Divisor Given a Threshold](https://github.com/tatadyj/leetcode/tree/main/1283.find-the-smallest-divisor-given-a-threshold) (E)
 
 [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/tatadyj/leetcode/tree/main/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) (M)
+
+[1300. Sum of Mutated Array Closest to Target](https://github.com/tatadyj/leetcode/tree/main/1300.sum-of-mutated-array-closest-to-target) (M)
 
 [1482. Minimum Number of Days to Make m Bouquets](https://github.com/tatadyj/leetcode/tree/main/1482.minimum-number-of-days-to-make-m-bouquets) (E)
 
