@@ -41,13 +41,11 @@
 
 
 [2616. Minimize the Maximum Difference of Pairs]()
-[2563. Count the Number of Fair Pairs]()
 
 
-[2141. Maximum Running Time of N Computers]()
 
 
-[1870. Minimum Speed to Arrive on Time]()
+
 
 
 ### Search By Value
@@ -82,15 +80,22 @@
 
 [1802. Maximum Value at a Given Index in a Bounded Array](https://github.com/tatadyj/leetcode/tree/main/1802.maximum-value-at-a-given-index-in-a-bounded-array) (H)
 
+[1870. Minimum Speed to Arrive on Time](https://github.com/tatadyj/leetcode/tree/main/1870.minimum-speed-to-arrive-on-time) (E)
+
 [1891*. Cutting Ribbons](https://github.com/tatadyj/leetcode/tree/main/1891.cutting-ribbons) (E)
 
-[1898. Maximum Number of Removable Characters]() (M)
+[1898. Maximum Number of Removable Characters](https://github.com/tatadyj/leetcode/tree/main/1898.maximum-number-of-removable-characters) (M)
 
 [2071. Maximum Number of Tasks You Can Assign](https://github.com/tatadyj/leetcode/tree/main/2071.maximum-number-of-tasks-you-can-assign) (H)
 
 [2226. Maximum Candies Allocated to K Children](https://github.com/tatadyj/leetcode/tree/main/2226.maximum-candies-allocated-to-k-children) (E)
 
 [2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/tatadyj/leetcode/tree/main/2064.minimized-maximum-of-products-distributed-to-any-store) (E)
+
+[2141. Maximum Running Time of N Computers](https://github.com/tatadyj/leetcode/tree/main/2141.maximum-running-time-of-n-computers) (H)
+
+[2517. Maximum Tastiness of Candy Basket]() (E)
+
 
 ### Search index 
 
@@ -111,3 +116,5 @@
 [1818. Minimum Absolute Sum Difference](https://github.com/tatadyj/leetcode/tree/main/1818.minimum-absolute-sum-difference) (M)
 
 [1712. Ways to Split Array Into Three Subarrays](https://github.com/tatadyj/leetcode/tree/main/1712.ways-to-split-array-into-three-subarrays) (H)
+
+[2563. Count the Number of Fair Pairs](https://github.com/tatadyj/leetcode/tree/main/2563.count-the-number-of-fair-pairs)
