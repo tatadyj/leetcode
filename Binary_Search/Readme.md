@@ -3,7 +3,7 @@
 
 [215. Kth Largest Element in an Array](https://github.com/tatadyj/leetcode/tree/main/215.kth-largest-element-in-an-array) (E)
 
-[373. Find K Pairs with Smallest Sums]()
+[373. Find K Pairs with Smallest Sums](https://github.com/tatadyj/leetcode/tree/main/287.find-the-duplicate-number)
 
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/tatadyj/leetcode/tree/main/378.kth-smallest-element-in-a-sorted-matrix) (M)
 
@@ -29,14 +29,13 @@
 
 [3116. Kth Smallest Amount With Single Denomination Combination](https://github.com/tatadyj/leetcode/tree/main/3116.kth-smallest-amount-with-single-denomination-combination) (H, similar to LC 1201)
 
-[240. Search a 2D Matrix II]()
+[240. Search a 2D Matrix II](https://github.com/tatadyj/leetcode/tree/main/240.search-a-2-d-matrix-ii)
 
-[1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows]()
+[1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://github.com/tatadyj/leetcode/tree/main/1439.find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows)
+
 [287. Find the Duplicate Number]()
 
-[2387. Median of a Row Wise Sorted Matrix]() (E)
-
-[2616. Minimize the Maximum Difference of Pairs]()
+[2387*. Median of a Row Wise Sorted Matrix](https://github.com/tatadyj/leetcode/tree/main/2387.median-of-a-row-wise-sorted-matrix) (E)
 
 
 
@@ -50,7 +49,7 @@
 
 [774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
 
-[793. Preimage Size of Factorial Zeroes Function]() (M)
+[793. Preimage Size of Factorial Zeroes Function](https://github.com/tatadyj/leetcode/tree/main/793.preimage-size-of-factorial-zeroes-function) (M)
 
 [875. Koko Eating Bananas](https://github.com/tatadyj/leetcode/tree/main/875.koko-eating-bananas) (E)
 
@@ -96,7 +95,9 @@
 
 [2517. Maximum Tastiness of Candy Basket](https://github.com/tatadyj/leetcode/tree/main/2517.maximum-tastiness-of-candy-basket) (E)
 
-[2702*. Minimum Operations to Make Numbers Non-positive]() 
+[2616. Minimize the Maximum Difference of Pairs](https://github.com/tatadyj/leetcode/tree/main/2616.minimize-the-maximum-difference-of-pairs)
+
+[2702*. Minimum Operations to Make Numbers Non-positive](https://github.com/tatadyj/leetcode/tree/main/2702.minimum-operations-to-make-numbers-non-positive) 
 
 
 
