@@ -94,7 +94,9 @@
 
 [2141. Maximum Running Time of N Computers](https://github.com/tatadyj/leetcode/tree/main/2141.maximum-running-time-of-n-computers) (H)
 
-[2517. Maximum Tastiness of Candy Basket]() (E)
+[2439. Minimize Maximum of Array]()
+
+[2517. Maximum Tastiness of Candy Basket](https://github.com/tatadyj/leetcode/tree/main/2517.maximum-tastiness-of-candy-basket) (E)
 
 
 ### Search index 
