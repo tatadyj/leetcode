@@ -3,6 +3,8 @@
 
 [215. Kth Largest Element in an Array](https://github.com/tatadyj/leetcode/tree/main/215.kth-largest-element-in-an-array) (E)
 
+[373. Find K Pairs with Smallest Sums]()
+
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/tatadyj/leetcode/tree/main/378.kth-smallest-element-in-a-sorted-matrix) (M)
 
 [668. Kth Smallest Number in Multiplication Table](https://github.com/tatadyj/leetcode/tree/main/668.kth-smallest-number-in-multiplication-table) (M, aka LC 378)
@@ -29,36 +31,23 @@
 
 [240. Search a 2D Matrix II]()
 
-
-
 [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows]()
-[373. Find K Pairs with Smallest Sums]()
 [287. Find the Duplicate Number]()
-373.Find-K-Pairs-with-Smallest-Sums (H)
-668.Kth-Smallest-Number-in-Multiplication-Table (H-)
-1918.Kth-Smallest-Subarray-Sum (M+)
-2040.Kth-Smallest-Product-of-Two-Sorted-Arrays (H-)
+
 
 911.Preimage-Size-of-Factorial-Zeroes-Function (H-)
-1539.Kth-Missing-Positive-Number (H-)
 2387.Median-of-a-Row-Wise-Sorted-Matrix (H-)
 
-[3134. Find the Median of the Uniqueness Array]()
 
 
 [2616. Minimize the Maximum Difference of Pairs]()
 [2563. Count the Number of Fair Pairs]()
 
-[2226. Maximum Candies Allocated to K Children]()
 
 [2141. Maximum Running Time of N Computers]()
 
-[2071. Maximum Number of Tasks You Can Assign]()
-[2064. Minimized Maximum of Products Distributed to Any Store]()
-[1891*. Cutting Ribbons]()
-[1870. Minimum Speed to Arrive on Time]()
-[1802. Maximum Value at a Given Index in a Bounded Array]()
 
+[1870. Minimum Speed to Arrive on Time]()
 
 
 ### Search By Value
@@ -85,9 +74,23 @@
 
 [1482. Minimum Number of Days to Make m Bouquets](https://github.com/tatadyj/leetcode/tree/main/1482.minimum-number-of-days-to-make-m-bouquets) (E)
 
-[1508. Range Sum of Sorted Subarray Sums]()
+[1508. Range Sum of Sorted Subarray Sums](https://github.com/tatadyj/leetcode/tree/main/1508.range-sum-of-sorted-subarray-sums) (H)
 
 [1552. Magnetic Force Between Two Balls](https://github.com/tatadyj/leetcode/tree/main/1552.magnetic-force-between-two-balls) (E)
+
+[1608. Special Array With X Elements Greater Than or Equal X](https://github.com/tatadyj/leetcode/tree/main/1608.special-array-with-x-elements-greater-than-or-equal-x) (E)
+
+[1802. Maximum Value at a Given Index in a Bounded Array](https://github.com/tatadyj/leetcode/tree/main/1802.maximum-value-at-a-given-index-in-a-bounded-array) (H)
+
+[1891*. Cutting Ribbons](https://github.com/tatadyj/leetcode/tree/main/1891.cutting-ribbons) (E)
+
+[1898. Maximum Number of Removable Characters]() (M)
+
+[2071. Maximum Number of Tasks You Can Assign](https://github.com/tatadyj/leetcode/tree/main/2071.maximum-number-of-tasks-you-can-assign) (H)
+
+[2226. Maximum Candies Allocated to K Children](https://github.com/tatadyj/leetcode/tree/main/2226.maximum-candies-allocated-to-k-children) (E)
+
+[2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/tatadyj/leetcode/tree/main/2064.minimized-maximum-of-products-distributed-to-any-store) (E)
 
 ### Search index 
 
@@ -99,7 +102,7 @@
 
 [475. Heaters](https://github.com/tatadyj/leetcode/tree/main/475.heaters) 
 
-[540. Single Element in a Sorted Array]()
+[540. Single Element in a Sorted Array](https://github.com/tatadyj/leetcode/tree/main/540.single-element-in-a-sorted-array)
 
 [911. Online Election](https://github.com/tatadyj/leetcode/tree/main/911.online-election)
 
@@ -107,4 +110,4 @@
 
 [1818. Minimum Absolute Sum Difference](https://github.com/tatadyj/leetcode/tree/main/1818.minimum-absolute-sum-difference) (M)
 
-[1712. Ways to Split Array Into Three Subarrays]()
+[1712. Ways to Split Array Into Three Subarrays](https://github.com/tatadyj/leetcode/tree/main/1712.ways-to-split-array-into-three-subarrays) (H)
