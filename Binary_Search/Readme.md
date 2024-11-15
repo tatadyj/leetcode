@@ -34,11 +34,7 @@
 [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows]()
 [287. Find the Duplicate Number]()
 
-
-911.Preimage-Size-of-Factorial-Zeroes-Function (H-)
-2387.Median-of-a-Row-Wise-Sorted-Matrix (H-)
-
-
+[2387. Median of a Row Wise Sorted Matrix]() (E)
 
 [2616. Minimize the Maximum Difference of Pairs]()
 
@@ -53,6 +49,8 @@
 [410. Split Array Largest Sum](https://github.com/tatadyj/leetcode/tree/main/410.split-array-largest-sum)
 
 [774*. Minimize Max Distance to Gas Station](https://github.com/tatadyj/leetcode/tree/main/774.minimize-max-distance-to-gas-station) (M)
+
+[793. Preimage Size of Factorial Zeroes Function]() (M)
 
 [875. Koko Eating Bananas](https://github.com/tatadyj/leetcode/tree/main/875.koko-eating-bananas) (E)
 
@@ -94,9 +92,12 @@
 
 [2141. Maximum Running Time of N Computers](https://github.com/tatadyj/leetcode/tree/main/2141.maximum-running-time-of-n-computers) (H)
 
-[2439. Minimize Maximum of Array]()
+[2439. Minimize Maximum of Array](https://github.com/tatadyj/leetcode/tree/main/2439.minimize-maximum-of-array)
 
 [2517. Maximum Tastiness of Candy Basket](https://github.com/tatadyj/leetcode/tree/main/2517.maximum-tastiness-of-candy-basket) (E)
+
+[2702*. Minimum Operations to Make Numbers Non-positive]() 
+
 
 
 ### Search index 
