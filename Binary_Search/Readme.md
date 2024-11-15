@@ -85,9 +85,13 @@
 
 [1482. Minimum Number of Days to Make m Bouquets](https://github.com/tatadyj/leetcode/tree/main/1482.minimum-number-of-days-to-make-m-bouquets) (E)
 
+[1508. Range Sum of Sorted Subarray Sums]()
+
 [1552. Magnetic Force Between Two Balls](https://github.com/tatadyj/leetcode/tree/main/1552.magnetic-force-between-two-balls) (E)
 
 ### Search index 
+
+[35. Search Insert Position](https://github.com/tatadyj/leetcode/tree/main/35.search-insert-position) (E)
 
 [275. H-Index II](https://github.com/tatadyj/leetcode/tree/main/275.h-index-ii)
 
@@ -95,8 +99,12 @@
 
 [475. Heaters](https://github.com/tatadyj/leetcode/tree/main/475.heaters) 
 
+[540. Single Element in a Sorted Array]()
+
 [911. Online Election](https://github.com/tatadyj/leetcode/tree/main/911.online-election)
 
 [1157. Online Majority Element In Subarray]()
 
-[1818. Minimum Absolute Sum Difference]()
+[1818. Minimum Absolute Sum Difference](https://github.com/tatadyj/leetcode/tree/main/1818.minimum-absolute-sum-difference) (M)
+
+[1712. Ways to Split Array Into Three Subarrays]()
