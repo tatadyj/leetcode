@@ -99,7 +99,7 @@
 
 [2702*. Minimum Operations to Make Numbers Non-positive](https://github.com/tatadyj/leetcode/tree/main/2702.minimum-operations-to-make-numbers-non-positive) 
 
-
+[2861. Maximum Number of Alloys]() (E)
 
 ### Search index 
 
