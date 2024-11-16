@@ -7,22 +7,18 @@
 # @lc code=start
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
-        if num < 2:
-            return num 
-
-        l, r = 2, num // 2
-
-        while l < r-1:
-            mid = (l + r) // 2
-            sq = mid * mid
-            if sq < num:
-                l = mid 
-            elif sq > num:
-                r = mid 
+        left = 1
+        right = num // 2
+        while left < right:
+            mid = (left + right) // 2
+            if mid*mid >= num:
+                right = mid 
             else:
-                return True 
-
-        return (l*l == num) or (r*r == num) 
+                left = mid + 1 
+        if left*left == num:
+            return True 
+        else:
+            return False
         
 # @lc code=end
 
