@@ -95,6 +95,8 @@
 
 [2517. Maximum Tastiness of Candy Basket](https://github.com/tatadyj/leetcode/tree/main/2517.maximum-tastiness-of-candy-basket) (E)
 
+[2594. Minimum Time to Repair Cars]() (E)
+
 [2616. Minimize the Maximum Difference of Pairs](https://github.com/tatadyj/leetcode/tree/main/2616.minimize-the-maximum-difference-of-pairs)
 
 [2702*. Minimum Operations to Make Numbers Non-positive](https://github.com/tatadyj/leetcode/tree/main/2702.minimum-operations-to-make-numbers-non-positive) 

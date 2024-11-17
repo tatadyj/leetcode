@@ -5,51 +5,41 @@
 #
 
 # @lc code=start
-from typing import List
-
-    
-
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        if len(nums) == 0:
-            return [-1, -1]
-
-        res = []
-
-        l, r = 0, len(nums)-1
-        while l < r - 1:
-            mid = (l + r) // 2
-            if nums[mid] < target:
-                l = mid
-            elif nums[mid] > target:
-                r = mid 
+        if not nums: return [-1, -1]
+       
+        def search_lb(target):
+            # first index >= target
+            # aka left bound
+            left, right = 0, len(nums)-1 
+            while left < right:
+                mid = (left + right) // 2
+                if nums[mid] >= target:
+                    right = mid 
+                else:
+                    left = mid + 1
+            if nums[left] == target:
+                return left 
             else:
-                r = mid 
+                return -1
         
-        if nums[l] == target:
-            res.append(l)
-        elif nums[r] == target:
-            res.append(r)
-        else:
-            return [-1, -1]
-
-        r = len(nums)-1
-        while l < r - 1:
-            mid = (l + r) // 2
-            if nums[mid] > target:
-                r = mid
-            elif nums[mid] < target:
-                l = mid 
+        def search_rb(target):
+            # right bound
+            left, right = 0, len(nums)-1 
+            while left < right:
+                mid = (left + right + 1) // 2
+                if nums[mid] <= target:
+                    left = mid 
+                else:
+                    right = mid - 1
+            if nums[left] == target:
+                return left 
             else:
-                l = mid 
-    
-        if nums[r] == target:
-            res.append(r)
-        else:              # nums[l] == target:
-            res.append(l)
+                return -1
 
-        return res 
-
-Solution().searchRange([5,7,7,8,8,10], 8)     
+        lb = search_lb(target)
+        rb = search_rb(target)
+        return [lb, rb]  
 # @lc code=end
 
