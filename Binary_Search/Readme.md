@@ -109,6 +109,8 @@
 
 [2861. Maximum Number of Alloys]() (E)
 
+[3048. Earliest Second to Mark Indices I]()
+
 ### Search index 
 
 [35. Search Insert Position](https://github.com/tatadyj/leetcode/tree/main/35.search-insert-position) (E)
