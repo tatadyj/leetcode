@@ -85,6 +85,8 @@
 
 [2071. Maximum Number of Tasks You Can Assign](https://github.com/tatadyj/leetcode/tree/main/2071.maximum-number-of-tasks-you-can-assign) (H)
 
+[2106. Maximum Fruits Harvested After at Most K Steps]()
+
 [2137*. Pour Water Between Buckets to Make Water Levels Equal]() (E)
 
 [2226. Maximum Candies Allocated to K Children](https://github.com/tatadyj/leetcode/tree/main/2226.maximum-candies-allocated-to-k-children) (E)
