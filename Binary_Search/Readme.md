@@ -85,6 +85,8 @@
 
 [2071. Maximum Number of Tasks You Can Assign](https://github.com/tatadyj/leetcode/tree/main/2071.maximum-number-of-tasks-you-can-assign) (H)
 
+[2137*. Pour Water Between Buckets to Make Water Levels Equal]() (E)
+
 [2226. Maximum Candies Allocated to K Children](https://github.com/tatadyj/leetcode/tree/main/2226.maximum-candies-allocated-to-k-children) (E)
 
 [2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/tatadyj/leetcode/tree/main/2064.minimized-maximum-of-products-distributed-to-any-store) (E)
@@ -96,6 +98,8 @@
 [2517. Maximum Tastiness of Candy Basket](https://github.com/tatadyj/leetcode/tree/main/2517.maximum-tastiness-of-candy-basket) (E)
 
 [2594. Minimum Time to Repair Cars]() (E)
+
+[2604*. Minimum Time to Eat All Grains]() (M)
 
 [2616. Minimize the Maximum Difference of Pairs](https://github.com/tatadyj/leetcode/tree/main/2616.minimize-the-maximum-difference-of-pairs)
 
