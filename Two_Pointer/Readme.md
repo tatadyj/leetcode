@@ -40,7 +40,10 @@
 
 
 ### Distinct Element
-[03. Longest Substring Without Repeating Characters]()
+[03. Longest Substring Without Repeating Characters](https://github.com/tatadyj/leetcode/tree/main/3.longest-substring-without-repeating-characters) (E)
+
+[159*. Longest Substring with At Most Two Distinct Characters]() 
+
 [76. Minimum Window Substring]()
 
 
