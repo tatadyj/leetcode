@@ -40,6 +40,9 @@
 
 
 ### Distinct Element
+[03. Longest Substring Without Repeating Characters]()
+[76. Minimum Window Substring]()
+
 
 [2461. Maximum Sum of Distinct Subarrays With Length K]()
 [2537. Count the Number of Good Subarrays]()
