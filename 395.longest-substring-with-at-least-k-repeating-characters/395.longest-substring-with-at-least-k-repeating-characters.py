@@ -9,10 +9,10 @@ class Solution:
     def longestSubstring(self, s: str, k: int) -> int:
         res = 0
         for m in range(1, 27):
-            left, right = 0, 0 
             window = defaultdict(int)
             num_valid = 0
-            while right < len(s):
+            left = 0 
+            for right in range(len(s)):
                 rval = s[right]
                 window[rval] += 1 
                 if window[rval] == k:
@@ -29,10 +29,8 @@ class Solution:
                     left += 1
 
                 if num_valid == m and len(window) == m:
-                    res = max(res, right - left + 1)
-                
-                right += 1 
-        return res 
+                    res = max(res, right - left + 1)                
+        return res      
         
 # @lc code=end
 
