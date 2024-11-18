@@ -10,23 +10,21 @@ class Solution:
         n = len(nums)
         freq = defaultdict(int)
         res = 0
-        left = 0 
         total = 0
-        for right in range(n):
-            rval = nums[right]
-            freq[rval] += 1
-            total += rval 
+        for r in range(n):
+            freq[nums[r]] += 1
+            total += nums[r]
 
-            while right - left + 1 > k:
-                lval = nums[left]
-                freq[lval] -= 1
-                if freq[lval] == 0:
-                    freq.pop(lval)
-                total -= lval
-                left += 1
+            if r-k >= 0: 
+                val = nums[r-k]
+                freq[val] -= 1
+                if freq[val] == 0:
+                    freq.pop(val)
+                total -= val
 
-            if len(freq) == k:
-                res = max(res, total)
-        return res      
+            if r+1-k >= 0:
+                if len(freq) == k:
+                    res = max(res, total)
+        return res    
 # @lc code=end
 

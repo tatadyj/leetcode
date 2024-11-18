@@ -48,6 +48,8 @@
 
 [992. Subarrays with K Different Integers](https://github.com/tatadyj/leetcode/tree/main/992.subarrays-with-k-different-integers) (M, similar to LC 159) 
 
+[2461. Maximum Sum of Distinct Subarrays With Length K]() 
+
 [76. Minimum Window Substring]()
 
 
