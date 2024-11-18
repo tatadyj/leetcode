@@ -44,7 +44,9 @@
 
 [159*. Longest Substring with At Most Two Distinct Characters](https://github.com/tatadyj/leetcode/tree/main/159.longest-substring-with-at-most-two-distinct-characters) (E) 
 
-[340*. Longest Substring with At Most K Distinct Characters]() (E, similar to LC 159)
+[340*. Longest Substring with At Most K Distinct Characters](https://github.com/tatadyj/leetcode/tree/main/340.longest-substring-with-at-most-k-distinct-characters) (E, similar to LC 159)
+
+[992. Subarrays with K Different Integers]() (M, similar to LC 159) 
 
 [76. Minimum Window Substring]()
 
