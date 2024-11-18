@@ -1,5 +1,7 @@
 
 ### Sliding Window
+[713. Subarray Product Less Than K]() (E)
+[1498. Number of Subsequences That Satisfy the Given Sum Condition]() (M)
 [532. K-diff Pairs in an Array]() (E)
 
 [1838. Frequency of the Most Frequent Element]()
@@ -10,6 +12,13 @@
 [2411. Smallest Subarrays With Maximum Bitwise OR]()
 [3258. Count Substrings That Satisfy K-Constraint I]() (E)
 
+[1234. Replace the Substring for Balanced String]() (H)
+[1574. Shortest Subarray to be Removed to Make Array Sorted]() (H)
+[1793. Maximum Score of a Good Subarray]()
+
+### Two Pointers
+
+[2422*. Merge Operations to Turn Array Into a Palindrome]() (E)
 ### max or min 
 [1004. Max Consecutive Ones III]() (E)
 
@@ -31,8 +40,6 @@
 
 
 ### Distinct Element
-
-
 
 [2461. Maximum Sum of Distinct Subarrays With Length K]()
 [2537. Count the Number of Good Subarrays]()
