@@ -4,10 +4,12 @@
 [1498. Number of Subsequences That Satisfy the Given Sum Condition]() (M)
 [532. K-diff Pairs in an Array]() (E)
 
-[1838. Frequency of the Most Frequent Element]()
+
 
 [395. Longest Substring with At Least K Repeating Characters]() (M)
+
 [1763. Longest Nice Substring]() (M, Similar to LC 395)
+
 [2564. Substring XOR Queries]() 
 [2411. Smallest Subarrays With Maximum Bitwise OR]()
 [3258. Count Substrings That Satisfy K-Constraint I]() (E)
@@ -19,12 +21,12 @@
 ### Two Pointers
 
 [2422*. Merge Operations to Turn Array Into a Palindrome]() (E)
-### max or min 
+
+
 [1004. Max Consecutive Ones III]() (E)
 
 [1052. Grumpy Bookstore Owner]() ()
 
-[2958. Length of Longest Subarray With at Most K Frequency]() (E)
 
 [2962. Count Subarrays Where Max Element Appears at Least K Times]() 
 
@@ -36,10 +38,16 @@
 [1358. Number of Substrings Containing All Three Characters]() ()
 
 
+### Frequency
 
 
+[2958. Length of Longest Subarray With at Most K Frequency]() (E)
 
-### Distinct Element (Max/Min)
+[1838. Frequency of the Most Frequent Element](https://github.com/tatadyj/leetcode/tree/main/1838.frequency-of-the-most-frequent-element) (M)
+
+[2968. Apply Operations to Maximize Frequency Score]() (H)
+
+### Distinct Element 
 
 [03. Longest Substring Without Repeating Characters](https://github.com/tatadyj/leetcode/tree/main/3.longest-substring-without-repeating-characters) (E)
 
@@ -47,9 +55,11 @@
 
 [340*. Longest Substring with At Most K Distinct Characters](https://github.com/tatadyj/leetcode/tree/main/340.longest-substring-with-at-most-k-distinct-characters) (E, similar to LC 159)
 
-[992. Subarrays with K Different Integers](https://github.com/tatadyj/leetcode/tree/main/992.subarrays-with-k-different-integers) (M, similar to LC 159) 
+[992. Subarrays with K Different Integers](https://github.com/tatadyj/leetcode/tree/main/992.subarrays-with-k-different-integers) (M, Similar to LC 159) 
 
 [2461. Maximum Sum of Distinct Subarrays With Length K](https://github.com/tatadyj/leetcode/tree/main/2461.maximum-sum-of-distinct-subarrays-with-length-k) (E, Fixed-size Window) 
+
+[3134. Find the Median of the Uniqueness Array](https://github.com/tatadyj/leetcode/tree/main/3134.find-the-median-of-the-uniqueness-array) (H)
 
 [76. Minimum Window Substring]() (M, )
 
