@@ -5,11 +5,11 @@
 [2458. Height of Binary Tree After Subtree Removal Queries](https://github.com/tatadyj/leetcode/tree/main/2458.height-of-binary-tree-after-subtree-removal-queries) (H)
 
 ### Re-root
-[834. Sum of Distances in Tree]() (H)
+[834. Sum of Distances in Tree](https://github.com/tatadyj/leetcode/tree/main/834.sum-of-distances-in-tree) (H)
 
-[2581. Count Number of Possible Root Nodes]() (H)
+[2581. Count Number of Possible Root Nodes](https://github.com/tatadyj/leetcode/tree/main/2581.count-number-of-possible-root-nodes) (H)
 
-[2858. Minimum Edge Reversals So Every Node Is Reachable]() (H)
+[2858. Minimum Edge Reversals So Every Node Is Reachable](https://github.com/tatadyj/leetcode/tree/main/2858.minimum-edge-reversals-so-every-node-is-reachable) (H)
 
 ### Path in a Tree
 [543. Diameter of Binary Tree]() (E)
