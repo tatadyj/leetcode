@@ -1,10 +1,15 @@
-###
+### Binary Tree
+
+[2313*. Minimum Flips in Binary Tree to Get Result]() (H)
 
 [2458. Height of Binary Tree After Subtree Removal Queries]() (H)
 
 
 ### Tree as Graph 
 
+[2277. Closest Node to Path in Tree]() (H)
+
+[2322. Minimum Score After Removals on a Tree]() () (H)
 
 [2467. Most Profitable Path in a Tree](https://github.com/tatadyj/leetcode/tree/main/2467.most-profitable-path-in-a-tree) (H) 
 
