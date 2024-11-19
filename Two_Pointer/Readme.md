@@ -39,7 +39,8 @@
 
 
 
-### Distinct Element
+### Distinct Element (Max/Min)
+
 [03. Longest Substring Without Repeating Characters](https://github.com/tatadyj/leetcode/tree/main/3.longest-substring-without-repeating-characters) (E)
 
 [159*. Longest Substring with At Most Two Distinct Characters](https://github.com/tatadyj/leetcode/tree/main/159.longest-substring-with-at-most-two-distinct-characters) (E) 
@@ -48,13 +49,12 @@
 
 [992. Subarrays with K Different Integers](https://github.com/tatadyj/leetcode/tree/main/992.subarrays-with-k-different-integers) (M, similar to LC 159) 
 
-[2461. Maximum Sum of Distinct Subarrays With Length K]() 
+[2461. Maximum Sum of Distinct Subarrays With Length K](https://github.com/tatadyj/leetcode/tree/main/2461.maximum-sum-of-distinct-subarrays-with-length-k) (E, Fixed-size Window) 
 
-[76. Minimum Window Substring]()
+[76. Minimum Window Substring]() (M, )
 
+[2537. Count the Number of Good Subarrays]() 
 
-[2461. Maximum Sum of Distinct Subarrays With Length K]()
-[2537. Count the Number of Good Subarrays]()
 
 ### Two Sequences
 [1229. Meeting Scheduler]() (E)
