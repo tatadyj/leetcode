@@ -9,22 +9,17 @@ class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         res = 0 
         window = defaultdict(int)
-        left, right = 0, 0
-        def num_changes(window):
-            return (right - left + 1) - max(window.values())  
-
-        while right < len(s):
+        max_freq = 0
+        left = 0
+        for right in range(len(s)):
             rval = s[right]
             window[rval] += 1
-            while num_changes(window) > k:
+            max_freq = max(max_freq, window[rval])
+            while right - left + 1 - max_freq > k:
                 lval = s[left]
                 window[lval] -= 1 
                 left += 1
-
             res = max(res, right - left + 1)
-
-            right += 1
-
         return res  
 
 # @lc code=end

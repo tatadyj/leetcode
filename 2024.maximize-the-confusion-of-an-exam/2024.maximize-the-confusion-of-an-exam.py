@@ -7,25 +7,19 @@
 # @lc code=start
 class Solution:
     def maxConsecutiveAnswers(self, answerKey: str, k: int) -> int:
-        def sliding_window(char):
-            res = 0 
-       
-            l = 0
-            count = 0
-            for r in range(len(answerKey)):
-                rval = answerKey[r]
-                if rval != char:
-                    count += 1
-
-                while l < len(answerKey) and count > k:
-                    lval = answerKey[l]
-                    if lval != char:
-                        count -= 1
-                    l += 1
-                res = max(res, r-l+1)
-            return res
-        
-        return max(sliding_window('T'), sliding_window('F'))
-        
+        res = 0 
+        window = defaultdict(int)
+        max_freq = 0
+        left = 0
+        for right in range(len(answerKey)):
+            rval = answerKey[right]
+            window[rval] += 1
+            max_freq = max(max_freq, window[rval])
+            while right - left + 1 - max_freq > k:
+                lval = answerKey[left]
+                window[lval] -= 1 
+                left += 1
+            res = max(res, right - left + 1)
+        return res  
 # @lc code=end
 

@@ -1,4 +1,9 @@
 
+### Min 
+[209. Minimum Size Subarray Sum]() (E)
+
+[862. Shortest Subarray with Sum at Least K]() 
+
 ### Sliding Window
 [713. Subarray Product Less Than K]() (E)
 [1498. Number of Subsequences That Satisfy the Given Sum Condition]() (M)
@@ -17,6 +22,15 @@
 [1234. Replace the Substring for Balanced String]() (H)
 [1574. Shortest Subarray to be Removed to Make Array Sorted]() (H)
 [1793. Maximum Score of a Good Subarray]()
+
+
+[424. Longest Repeating Character Replacement]() (E) 
+
+[2024. Maximize the Confusion of an Exam]() (E, Similar to LC 424)
+
+[2831. Find the Longest Equal Subarray]() (E)
+
+[2953. Count Complete Substrings](https://github.com/tatadyj/leetcode/tree/main/2953.count-complete-substrings) (H)
 
 ### Two Pointers
 
@@ -41,11 +55,11 @@
 ### Frequency
 
 
-[2958. Length of Longest Subarray With at Most K Frequency]() (E)
+[2958. Length of Longest Subarray With at Most K Frequency](https://github.com/tatadyj/leetcode/tree/main/2958.length-of-longest-subarray-with-at-most-k-frequency) (E)
 
 [1838. Frequency of the Most Frequent Element](https://github.com/tatadyj/leetcode/tree/main/1838.frequency-of-the-most-frequent-element) (M)
 
-[2968. Apply Operations to Maximize Frequency Score]() (H)
+[2968. Apply Operations to Maximize Frequency Score](https://github.com/tatadyj/leetcode/tree/main/2968.apply-operations-to-maximize-frequency-score) (H)
 
 ### Distinct Element 
 
@@ -70,4 +84,3 @@
 [1229. Meeting Scheduler]() (E)
 [1537. Get the Maximum Score]() 
 [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers]() 
-[2953. Count Complete Substrings]() (H)
