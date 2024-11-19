@@ -1,8 +1,16 @@
+###
+
+[2458. Height of Binary Tree After Subtree Removal Queries]() (H)
 
 
 ### Tree as Graph 
 
+
 [2467. Most Profitable Path in a Tree](https://github.com/tatadyj/leetcode/tree/main/2467.most-profitable-path-in-a-tree) (H) 
+
+[337. House Robber III]() (H)
+
+[2646. Minimize the Total Price of the Trips]() (H, Similar to LC 337) 
 
 [2920. Maximum Points After Collecting Coins From All Nodes](https://github.com/tatadyj/leetcode/tree/main/2920.maximum-points-after-collecting-coins-from-all-nodes) (M)
 
