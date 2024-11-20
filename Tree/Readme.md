@@ -12,19 +12,19 @@
 [2858. Minimum Edge Reversals So Every Node Is Reachable](https://github.com/tatadyj/leetcode/tree/main/2858.minimum-edge-reversals-so-every-node-is-reachable) (H)
 
 ### Path in a Tree
-[543. Diameter of Binary Tree]() (E)
+[543. Diameter of Binary Tree](https://github.com/tatadyj/leetcode/tree/main/543.diameter-of-binary-tree) (E)
 
-[1522*. Diameter of N-Ary Tree]() (E)
+[1522*. Diameter of N-Ary Tree](https://github.com/tatadyj/leetcode/tree/main/1522.diameter-of-n-ary-tree) (E)
 
-[124. Binary Tree Maximum Path Sum]() (E) 
+[124. Binary Tree Maximum Path Sum](https://github.com/tatadyj/leetcode/tree/main/124.binary-tree-maximum-path-sum) (E) 
 
-[687. Longest Univalue Path]() (E)
+[687. Longest Univalue Path](https://github.com/tatadyj/leetcode/tree/main/687.longest-univalue-path) (E)
 
-[2049. Count Nodes With the Highest Score]() (M)
+[2049. Count Nodes With the Highest Score](https://github.com/tatadyj/leetcode/tree/main/2049.count-nodes-with-the-highest-score) (M)
 
-[2246. Longest Path With Different Adjacent Characters]() (M)
+[2246. Longest Path With Different Adjacent Characters](https://github.com/tatadyj/leetcode/tree/main/2246.longest-path-with-different-adjacent-characters) (M)
 
-[2538. Difference Between Maximum and Minimum Price Sum]() (H)
+[2538. Difference Between Maximum and Minimum Price Sum](https://github.com/tatadyj/leetcode/tree/main/2538.difference-between-maximum-and-minimum-price-sum) (H)
 
 [3203. Find Minimum Diameter After Merging Two Trees]() (H)
 
