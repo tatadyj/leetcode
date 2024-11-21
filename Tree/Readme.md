@@ -30,6 +30,16 @@
 
 [3203. Find Minimum Diameter After Merging Two Trees]() (H)
 
+[742*. Closest Leaf in a Binary Tree]() (H)
+
+[272*. Closest Binary Search Tree Value II]() 
+
+[270*. Closest Binary Search Tree Value]() 
+
+[538. Convert BST to Greater Tree]() (E)
+
+[1038. Binary Search Tree to Greater Sum Tree]() (E, Similar to LC 538)
+
 ### Tree as Graph 
 
 [2277. Closest Node to Path in Tree](https://github.com/tatadyj/leetcode/tree/main/2277.closest-node-to-path-in-tree) (H)

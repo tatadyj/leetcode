@@ -1,7 +1,7 @@
 #
-# @lc app=leetcode id=1038 lang=python3
+# @lc app=leetcode id=538 lang=python3
 #
-# [1038] Binary Search Tree to Greater Sum Tree
+# [538] Convert BST to Greater Tree
 #
 
 # @lc code=start
@@ -12,19 +12,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def bstToGst(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+    def convertBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         def dfs(curr):
-            nonlocal sum 
+            nonlocal sum
             if not curr:
-                return
-           
+                return 
+
             dfs(curr.right)
-            curr.val += sum
+            curr.val += sum 
             sum = curr.val 
             dfs(curr.left)
-
+        
         sum = 0
         dfs(root)
-        return root
+        return root   
 # @lc code=end
 
