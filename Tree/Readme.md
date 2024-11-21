@@ -1,5 +1,7 @@
 ### Binary Tree
 
+[1104. Path In Zigzag Labelled Binary Tree]() (E)
+
 [2313*. Minimum Flips in Binary Tree to Get Result](https://github.com/tatadyj/leetcode/tree/main/2313.minimum-flips-in-binary-tree-to-get-result) (H)
 
 [2458. Height of Binary Tree After Subtree Removal Queries](https://github.com/tatadyj/leetcode/tree/main/2458.height-of-binary-tree-after-subtree-removal-queries) (H)
