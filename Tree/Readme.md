@@ -1,39 +1,39 @@
 ### Binary Tree
 
-[116. Populating Next Right Pointers in Each Node]() (E)
+[116. Populating Next Right Pointers in Each Node](https://github.com/tatadyj/leetcode/tree/main/116.populating-next-right-pointers-in-each-node) (E)
 
-[117. Populating Next Right Pointers in Each Node II]() (E)
+[117. Populating Next Right Pointers in Each Node II](https://github.com/tatadyj/leetcode/tree/main/117.populating-next-right-pointers-in-each-node-ii) (E)
 
 [173. Binary Search Tree Iterator]() 
 
-[226. Invert Binary Tree]() (E)
+[226. Invert Binary Tree](https://github.com/tatadyj/leetcode/tree/main/226.invert-binary-tree) (E)
 
-[285*. Inorder Successor in BST]() (E)
+[285*. Inorder Successor in BST](https://github.com/tatadyj/leetcode/tree/main/285.inorder-successor-in-bst) (E)
 
-[298*. Binary Tree Longest Consecutive Sequence]() (E)
-
-
-
-[545*. Boundary of Binary Tree]() (M)
-
-[549*. Binary Tree Longest Consecutive Sequence II]() (M)
-
-[501. Find Mode in Binary Search Tree]() (M)
-
-[558. Logical OR of Two Binary Grids Represented as Quad-Trees]() (M)
+[298*. Binary Tree Longest Consecutive Sequence](https://github.com/tatadyj/leetcode/tree/main/298.binary-tree-longest-consecutive-sequence) (E)
 
 
-[897. Increasing Order Search Tree]() (M)
 
-[958. Check Completeness of a Binary Tree]() (M)
+[545*. Boundary of Binary Tree](https://github.com/tatadyj/leetcode/tree/main/545.boundary-of-binary-tree) (M)
 
-[655. Print Binary Tree]() (M)
+[549*. Binary Tree Longest Consecutive Sequence II](https://github.com/tatadyj/leetcode/tree/main/549.binary-tree-longest-consecutive-sequence-ii) (M)
 
-[662. Maximum Width of Binary Tree]() (E)
+[501. Find Mode in Binary Search Tree](https://github.com/tatadyj/leetcode/tree/main/501.find-mode-in-binary-search-tree) (M)
 
-[1104. Path In Zigzag Labelled Binary Tree]() (E)
+[558. Logical OR of Two Binary Grids Represented as Quad-Trees](https://github.com/tatadyj/leetcode/tree/main/558.logical-or-of-two-binary-grids-represented-as-quad-trees) (M)
 
-[1339. Maximum Product of Splitted Binary Tree]() (E)
+
+[897. Increasing Order Search Tree](https://github.com/tatadyj/leetcode/tree/main/897.increasing-order-search-tree) (M)
+
+[958. Check Completeness of a Binary Tree](https://github.com/tatadyj/leetcode/tree/main/958.check-completeness-of-a-binary-tree) (M)
+
+[655. Print Binary Tree](https://github.com/tatadyj/leetcode/tree/main/655.print-binary-tree) (M)
+
+[662. Maximum Width of Binary Tree](https://github.com/tatadyj/leetcode/tree/main/662.maximum-width-of-binary-tree) (E)
+
+[1104. Path In Zigzag Labelled Binary Tree](https://github.com/tatadyj/leetcode/tree/main/1104.path-in-zigzag-labelled-binary-tree) (E)
+
+[1339. Maximum Product of Splitted Binary Tree](https://github.com/tatadyj/leetcode/tree/main/1339.maximum-product-of-splitted-binary-tree) (E)
 
 [2313*. Minimum Flips in Binary Tree to Get Result](https://github.com/tatadyj/leetcode/tree/main/2313.minimum-flips-in-binary-tree-to-get-result) (H)
 
@@ -52,7 +52,7 @@
 
 [543. Diameter of Binary Tree](https://github.com/tatadyj/leetcode/tree/main/543.diameter-of-binary-tree) (E)
 
-[863. All Nodes Distance K in Binary Tree]() (M)
+[863. All Nodes Distance K in Binary Tree](https://github.com/tatadyj/leetcode/tree/main/863.all-nodes-distance-k-in-binary-tree) (M)
 
 [1522*. Diameter of N-Ary Tree](https://github.com/tatadyj/leetcode/tree/main/1522.diameter-of-n-ary-tree) (E)
 
@@ -68,15 +68,15 @@
 
 [3203. Find Minimum Diameter After Merging Two Trees]() (H)
 
-[742*. Closest Leaf in a Binary Tree]() (H)
+[742*. Closest Leaf in a Binary Tree](https://github.com/tatadyj/leetcode/tree/main/742.closest-leaf-in-a-binary-tree) (H)
 
-[272*. Closest Binary Search Tree Value II]() 
+[272*. Closest Binary Search Tree Value II](https://github.com/tatadyj/leetcode/tree/main/272.closest-binary-search-tree-value-ii) (E) 
 
-[270*. Closest Binary Search Tree Value]() 
+[270*. Closest Binary Search Tree Value](https://github.com/tatadyj/leetcode/tree/main/270.closest-binary-search-tree-value) (E) 
 
-[538. Convert BST to Greater Tree]() (E)
+[538. Convert BST to Greater Tree](https://github.com/tatadyj/leetcode/tree/main/538.convert-bst-to-greater-tree) (E)
 
-[1038. Binary Search Tree to Greater Sum Tree]() (E, Similar to LC 538)
+[1038. Binary Search Tree to Greater Sum Tree](https://github.com/tatadyj/leetcode/tree/main/1038.binary-search-tree-to-greater-sum-tree) (E, Similar to LC 538)
 
 ### Tree as Graph 
 
