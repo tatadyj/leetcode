@@ -13,17 +13,13 @@
 
 [882. Reachable Nodes In Subdivided Graph](https://github.com/tatadyj/leetcode/tree/main/882.reachable-nodes-in-subdivided-graph) (H)
 
-
-
-
-[2503. Maximum Number of Points From Grid Queries]()
-
 ### BFS + PQ
 
-[407. Trapping Rain Water II]()
+[407. Trapping Rain Water II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/407.Trapping-Rain-Water-II) (M)
 
 [778. Swim in Rising Water](https://github.com/tatadyj/leetcode/tree/main/778.swim-in-rising-water) (M)
 
+[2503. Maximum Number of Points From Grid Queries](https://github.com/tatadyj/leetcode/tree/main/2503.maximum-number-of-points-from-grid-queries) (M)
 
 
 
