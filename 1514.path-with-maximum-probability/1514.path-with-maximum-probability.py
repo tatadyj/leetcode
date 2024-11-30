@@ -10,7 +10,7 @@ class Solution:
         adj_dict = defaultdict(list)
         for i, (a, b) in enumerate(edges):
             if succProb[i] == 0:
-                val = float('-inf')
+                val = float('inf') # -log_e
             else:
                 val = -log(succProb[i])
             adj_dict[a].append((b, val))
@@ -22,13 +22,10 @@ class Solution:
             d, curr = heapq.heappop(pq)
             visited[curr] = True
             if curr == end_node:
-                if d == float('-inf'):
-                    return 0 
-                else:
-                    return exp(-d)
+                return exp(-d)
             for nxt, weight in adj_dict[curr]:
                 if visited[nxt]: continue
                 heapq.heappush(pq, (weight + d, nxt))
-        return 0    
+        return 0 
 # @lc code=end
 
