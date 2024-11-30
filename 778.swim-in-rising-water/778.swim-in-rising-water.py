@@ -12,12 +12,11 @@ class Solution:
 
         dir = [(-1, 0), (1, 0), (0, -1), (0, 1)]
         visited = [[False] * n for _ in range(n)]
-        visited[0][0] = True
         level = 0
         while pq:
             h, (x,y) = heapq.heappop(pq)
-            #if visited[x][y]: continue # 必须要在出队列是skip
-            #visited[x][y] = True  # pq 一定要在出队列时标记
+            if visited[x][y]: continue # 必须要在出队列时skip
+            visited[x][y] = True  # pq 一定要在出队列时标记
             level = max(level, h)
             if x == n-1 and y == n-1:
                 return level
@@ -27,7 +26,7 @@ class Solution:
                 if nxt_x < 0 or nxt_x >= n or nxt_y < 0 or nxt_y >= n: continue 
                 if visited[nxt_x][nxt_y]: continue 
                 heapq.heappush(pq, (grid[nxt_x][nxt_y], (nxt_x, nxt_y)))
-                visited[nxt_x][nxt_y] = True
+
       
 # @lc code=end
 
