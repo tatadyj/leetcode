@@ -14,26 +14,20 @@ class Node:
         self.right = right
         self.next = next
 """
-from collections import deque
-
 class Solution:
     def connect(self, root: 'Node') -> 'Node':
-        if not root:
-            return root
-
+        if not root: return root
         queue = deque([root])
         while queue:
             size = len(queue)
-            for i in range(size):
+            prev = None
+            for _ in range(size):
                 curr = queue.popleft()
-                
-                if curr.left:
-                    queue.append(curr.left)
-                if curr.right:
-                    queue.append(curr.right)
-                if i == size - 1:
-                    break
-                curr.next = queue[0]
+                if prev:
+                    prev.next = curr
+                prev = curr 
+                if curr.left: queue.append(curr.left)
+                if curr.right: queue.append(curr.right)
         return root
 
         # @lc code=end

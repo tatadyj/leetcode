@@ -1,6 +1,39 @@
 ### Binary Tree
 
+[116. Populating Next Right Pointers in Each Node]() (E)
+
+[117. Populating Next Right Pointers in Each Node II]() (E)
+
+[173. Binary Search Tree Iterator]() 
+
+[226. Invert Binary Tree]() (E)
+
+[285*. Inorder Successor in BST]() (E)
+
+[298*. Binary Tree Longest Consecutive Sequence]() (E)
+
+
+
+[545*. Boundary of Binary Tree]() (M)
+
+[549*. Binary Tree Longest Consecutive Sequence II]() (M)
+
+[501. Find Mode in Binary Search Tree]() (M)
+
+[558. Logical OR of Two Binary Grids Represented as Quad-Trees]() (M)
+
+
+[897. Increasing Order Search Tree]() (M)
+
+[958. Check Completeness of a Binary Tree]() (M)
+
+[655. Print Binary Tree]() (M)
+
+[662. Maximum Width of Binary Tree]() (E)
+
 [1104. Path In Zigzag Labelled Binary Tree]() (E)
+
+[1339. Maximum Product of Splitted Binary Tree]() (E)
 
 [2313*. Minimum Flips in Binary Tree to Get Result](https://github.com/tatadyj/leetcode/tree/main/2313.minimum-flips-in-binary-tree-to-get-result) (H)
 
@@ -14,7 +47,12 @@
 [2858. Minimum Edge Reversals So Every Node Is Reachable](https://github.com/tatadyj/leetcode/tree/main/2858.minimum-edge-reversals-so-every-node-is-reachable) (H)
 
 ### Path in a Tree
+
+[437. Path Sum III]() (E)
+
 [543. Diameter of Binary Tree](https://github.com/tatadyj/leetcode/tree/main/543.diameter-of-binary-tree) (E)
+
+[863. All Nodes Distance K in Binary Tree]() (M)
 
 [1522*. Diameter of N-Ary Tree](https://github.com/tatadyj/leetcode/tree/main/1522.diameter-of-n-ary-tree) (E)
 
