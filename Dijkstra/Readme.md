@@ -13,7 +13,7 @@
 
 [2714*. Find Shortest Path with K Hops](https://github.com/tatadyj/leetcode/tree/main/2714.find-shortest-path-with-k-hops) (E)
 
-[3112. Minimum Time to Visit Disappearing Nodes]() (E)
+[3112. Minimum Time to Visit Disappearing Nodes](https://github.com/tatadyj/leetcode/tree/main/3112.minimum-time-to-visit-disappearing-nodes) (E)
 
 [882. Reachable Nodes In Subdivided Graph](https://github.com/tatadyj/leetcode/tree/main/882.reachable-nodes-in-subdivided-graph) (H)
 
@@ -43,5 +43,7 @@
 [1976. Number of Ways to Arrive at Destination](https://github.com/tatadyj/leetcode/tree/main/1976.number-of-ways-to-arrive-at-destination) (M)
 
 [2203. Minimum Weighted Subgraph With the Required Paths](https://github.com/tatadyj/leetcode/tree/main/2203.minimum-weighted-subgraph-with-the-required-paths) (M)
+
+[2699. Modify Graph Edge Weights]() (M)
 
 [3123. Find Edges in Shortest Paths](https://github.com/tatadyj/leetcode/tree/main/3123.find-edges-in-shortest-paths) (M)
