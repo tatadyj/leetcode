@@ -11,7 +11,7 @@
 
 [2093*. Minimum Cost to Reach City With Discounts](https://github.com/tatadyj/leetcode/tree/main/2093.minimum-cost-to-reach-city-with-discounts) (E)
 
-[2714*. Find Shortest Path with K Hops]() (E)
+[2714*. Find Shortest Path with K Hops](https://github.com/tatadyj/leetcode/tree/main/2714.find-shortest-path-with-k-hops) (E)
 
 [882. Reachable Nodes In Subdivided Graph](https://github.com/tatadyj/leetcode/tree/main/882.reachable-nodes-in-subdivided-graph) (H)
 
@@ -39,3 +39,5 @@
 [1976. Number of Ways to Arrive at Destination](https://github.com/tatadyj/leetcode/tree/main/1976.number-of-ways-to-arrive-at-destination) (M)
 
 [2203. Minimum Weighted Subgraph With the Required Paths](https://github.com/tatadyj/leetcode/tree/main/2203.minimum-weighted-subgraph-with-the-required-paths) (M)
+
+[3123. Find Edges in Shortest Paths]() (M)
