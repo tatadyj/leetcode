@@ -11,6 +11,8 @@
 
 [2093*. Minimum Cost to Reach City With Discounts](https://github.com/tatadyj/leetcode/tree/main/2093.minimum-cost-to-reach-city-with-discounts) (E)
 
+[2714*. Find Shortest Path with K Hops]() (E)
+
 [882. Reachable Nodes In Subdivided Graph](https://github.com/tatadyj/leetcode/tree/main/882.reachable-nodes-in-subdivided-graph) (H)
 
 ### BFS + PQ
