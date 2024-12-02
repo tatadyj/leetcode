@@ -41,6 +41,5 @@ class Solution:
             step += 1
         return 0
 
-Solution().ladderLength("hit","cog", ["hot","dot","dog","lot","log","cog"])
 # @lc code=end
 

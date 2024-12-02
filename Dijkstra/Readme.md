@@ -11,7 +11,7 @@
 
 [2093*. Minimum Cost to Reach City With Discounts](https://github.com/tatadyj/leetcode/tree/main/2093.minimum-cost-to-reach-city-with-discounts) (E)
 
-[2473. Minimum Cost to Buy Apples]() (E)
+[2473*. Minimum Cost to Buy Apples]() (E)
 
 [2714*. Find Shortest Path with K Hops](https://github.com/tatadyj/leetcode/tree/main/2714.find-shortest-path-with-k-hops) (E)
 
