@@ -39,7 +39,6 @@
 
 [1568. Minimum Number of Days to Disconnect Island](https://github.com/tatadyj/leetcode/tree/main/1568.minimum-number-of-days-to-disconnect-island) (E)
 
-[1617. Count Subtrees With Max Distance Between Cities]()
 
 
 [752. Open the Lock]()
@@ -51,15 +50,25 @@
 
 
 [1293. Shortest Path in a Grid with Obstacles Elimination]()
-[2290. Minimum Obstacle Removal to Reach Corner]()
-[2101. Detonate the Maximum Bombs]()
-[2045. Second Minimum Time to Reach Destination]()
-[1654. Minimum Jumps to Reach Home]()
-[2493. Divide Nodes Into the Maximum Number of Groups]()
+
+[2045. Second Minimum Time to Reach Destination](https://github.com/tatadyj/leetcode/tree/main/2045.second-minimum-time-to-reach-destination) (M)
+
+[2101. Detonate the Maximum Bombs](https://github.com/tatadyj/leetcode/tree/main/2101.detonate-the-maximum-bombs) (E)
+
+[2290. Minimum Obstacle Removal to Reach Corner](https://github.com/tatadyj/leetcode/tree/main/2290.minimum-obstacle-removal-to-reach-corner) (M)
+
+[1617. Count Subtrees With Max Distance Between Cities](https://github.com/tatadyj/leetcode/tree/main/1617.count-subtrees-with-max-distance-between-cities) (H)
+
+[1654. Minimum Jumps to Reach Home](https://github.com/tatadyj/leetcode/tree/main/1654.minimum-jumps-to-reach-home) (M)
+
+[2493. Divide Nodes Into the Maximum Number of Groups](https://github.com/tatadyj/leetcode/tree/main/2493.divide-nodes-into-the-maximum-number-of-groups) (H)
+
 [1631. Path With Minimum Effort]()
 [1102. Path With Maximum Minimum Value]()
 [2812. Find the Safest Path in a Grid](https://github.com/tatadyj/leetcode/tree/main/2812.find-the-safest-path-in-a-grid)
 
-[1245. Tree Diameter]()
+[1245. Tree Diameter](https://github.com/tatadyj/leetcode/tree/main/1245.tree-diameter) (M)
+
 [3203. Find Minimum Diameter After Merging Two Trees]()
+
 [662. Maximum Width of Binary Tree]()
