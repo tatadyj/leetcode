@@ -57,7 +57,6 @@
 
 [2290. Minimum Obstacle Removal to Reach Corner](https://github.com/tatadyj/leetcode/tree/main/2290.minimum-obstacle-removal-to-reach-corner) (M)
 
-[1617. Count Subtrees With Max Distance Between Cities](https://github.com/tatadyj/leetcode/tree/main/1617.count-subtrees-with-max-distance-between-cities) (H)
 
 [1654. Minimum Jumps to Reach Home](https://github.com/tatadyj/leetcode/tree/main/1654.minimum-jumps-to-reach-home) (M)
 
@@ -67,8 +66,13 @@
 [1102. Path With Maximum Minimum Value]()
 [2812. Find the Safest Path in a Grid](https://github.com/tatadyj/leetcode/tree/main/2812.find-the-safest-path-in-a-grid)
 
+
+### Tree Diameter
+
 [1245. Tree Diameter](https://github.com/tatadyj/leetcode/tree/main/1245.tree-diameter) (M)
 
-[3203. Find Minimum Diameter After Merging Two Trees]()
+[1617. Count Subtrees With Max Distance Between Cities](https://github.com/tatadyj/leetcode/tree/main/1617.count-subtrees-with-max-distance-between-cities) (H)
+
+[3203. Find Minimum Diameter After Merging Two Trees](https://github.com/tatadyj/leetcode/tree/main/3203.find-minimum-diameter-after-merging-two-trees) (H)
 
 [662. Maximum Width of Binary Tree]()
