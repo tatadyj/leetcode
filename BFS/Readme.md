@@ -5,9 +5,9 @@
 [130. Surrounded Regions]() ()
 
 
-[733. Flood Fill]()
-[433. Minimum Genetic Mutation]()
+[733. Flood Fill](https://github.com/tatadyj/leetcode/blob/main/733.flood-fill/733.flood-fill.py) (E)
 
+[433. Minimum Genetic Mutation](https://github.com/tatadyj/leetcode/tree/main/433.minimum-genetic-mutation) (E)
 
 [490*. The Maze](https://github.com/tatadyj/leetcode/tree/main/490.the-maze) (E)
 
