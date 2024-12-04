@@ -45,11 +45,9 @@
 [773. Sliding Puzzle]()
 [1162. As Far from Land as Possible]()
 [854. K-Similar Strings]()
-[864. Shortest Path to Get All Keys]()
-[847. Shortest Path Visiting All Nodes]()
 
 
-[1293. Shortest Path in a Grid with Obstacles Elimination]()
+[1293. Shortest Path in a Grid with Obstacles Elimination](https://github.com/tatadyj/leetcode/tree/main/1293.shortest-path-in-a-grid-with-obstacles-elimination) (E)
 
 [2045. Second Minimum Time to Reach Destination](https://github.com/tatadyj/leetcode/tree/main/2045.second-minimum-time-to-reach-destination) (M)
 
@@ -76,3 +74,13 @@
 [3203. Find Minimum Diameter After Merging Two Trees](https://github.com/tatadyj/leetcode/tree/main/3203.find-minimum-diameter-after-merging-two-trees) (H)
 
 [662. Maximum Width of Binary Tree]()
+
+# Multi States
+[913. Cat and Mouse](https://github.com/tatadyj/leetcode/tree/main/913.cat-and-mouse) (H)
+
+[1728. Cat and Mouse II](https://github.com/tatadyj/leetcode/tree/main/1728.cat-and-mouse-ii) (H)
+
+[847. Shortest Path Visiting All Nodes](https://github.com/tatadyj/leetcode/tree/main/847.shortest-path-visiting-all-nodes) (M)
+
+[864. Shortest Path to Get All Keys](https://github.com/tatadyj/leetcode/tree/main/864.shortest-path-to-get-all-keys) (M)
+
