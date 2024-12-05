@@ -4,8 +4,7 @@
 
 [130. Surrounded Regions]() ()
 
-
-[733. Flood Fill](https://github.com/tatadyj/leetcode/blob/main/733.flood-fill/733.flood-fill.py) (E)
+[286*. Walls and Gates]() (E)
 
 [433. Minimum Genetic Mutation](https://github.com/tatadyj/leetcode/tree/main/433.minimum-genetic-mutation) (E)
 
@@ -16,6 +15,8 @@
 [637. Average of Levels in Binary Tree](https://github.com/tatadyj/leetcode/tree/main/637.average-of-levels-in-binary-tree) (E)
 
 [675. Cut Off Trees for Golf Event](https://github.com/tatadyj/leetcode/tree/main/675.cut-off-trees-for-golf-event) (M)
+
+[752. Open the Lock](https://github.com/tatadyj/leetcode/tree/main/752.open-the-lock) (E)
 
 [785. Is Graph Bipartite?](https://github.com/tatadyj/leetcode/tree/main/785.is-graph-bipartite) (M)
 
@@ -41,8 +42,8 @@
 
 
 
-[752. Open the Lock]()
-[773. Sliding Puzzle]()
+[773. Sliding Puzzle](https://github.com/tatadyj/leetcode/tree/main/773.sliding-puzzle) (E)
+
 [1162. As Far from Land as Possible]()
 [854. K-Similar Strings]()
 
