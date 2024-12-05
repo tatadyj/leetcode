@@ -31,6 +31,8 @@
 
 [662. Maximum Width of Binary Tree](https://github.com/tatadyj/leetcode/tree/main/662.maximum-width-of-binary-tree) (E)
 
+[783. Minimum Distance Between BST Nodes]() (E)
+
 [1104. Path In Zigzag Labelled Binary Tree](https://github.com/tatadyj/leetcode/tree/main/1104.path-in-zigzag-labelled-binary-tree) (E)
 
 [1339. Maximum Product of Splitted Binary Tree](https://github.com/tatadyj/leetcode/tree/main/1339.maximum-product-of-splitted-binary-tree) (E)

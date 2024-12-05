@@ -4,7 +4,7 @@
 
 [130. Surrounded Regions]() ()
 
-[286*. Walls and Gates]() (E)
+[286*. Walls and Gates](https://github.com/tatadyj/leetcode/tree/main/286.walls-and-gates) (E)
 
 [433. Minimum Genetic Mutation](https://github.com/tatadyj/leetcode/tree/main/433.minimum-genetic-mutation) (E)
 
@@ -20,7 +20,7 @@
 
 [785. Is Graph Bipartite?](https://github.com/tatadyj/leetcode/tree/main/785.is-graph-bipartite) (M)
 
-[838. Push Dominoes]() (E)
+[838. Push Dominoes](https://github.com/tatadyj/leetcode/tree/main/838.push-dominoes) (E)
 
 [815. Bus Routes](https://github.com/tatadyj/leetcode/tree/main/815.bus-routes) (M)
 
@@ -41,12 +41,11 @@
 [1568. Minimum Number of Days to Disconnect Island](https://github.com/tatadyj/leetcode/tree/main/1568.minimum-number-of-days-to-disconnect-island) (E)
 
 
-
 [773. Sliding Puzzle](https://github.com/tatadyj/leetcode/tree/main/773.sliding-puzzle) (E)
 
-[1162. As Far from Land as Possible]()
-[854. K-Similar Strings]()
+[854. K-Similar Strings](https://github.com/tatadyj/leetcode/tree/main/854.k-similar-strings) (M)
 
+[1162. As Far from Land as Possible](https://github.com/tatadyj/leetcode/tree/main/1162.as-far-from-land-as-possible) (E)
 
 [1293. Shortest Path in a Grid with Obstacles Elimination](https://github.com/tatadyj/leetcode/tree/main/1293.shortest-path-in-a-grid-with-obstacles-elimination) (E)
 
@@ -76,7 +75,7 @@
 
 [662. Maximum Width of Binary Tree]()
 
-# Multi States
+### Multi States
 [913. Cat and Mouse](https://github.com/tatadyj/leetcode/tree/main/913.cat-and-mouse) (H)
 
 [1728. Cat and Mouse II](https://github.com/tatadyj/leetcode/tree/main/1728.cat-and-mouse-ii) (H)
