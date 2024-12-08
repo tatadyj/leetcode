@@ -5,33 +5,52 @@
 #
 
 # @lc code=start
-from typing import List 
+class TrieNode:
+    def __init__(self, char=""):
+        self.char = char 
+        self.is_end = False 
+        self.children = {}
 
-def bt(wordDict, minSize, memo, s):
-    if len(s) == 0:
-        return True
+class Trie:
+    def __init__(self):
+        self.root = TrieNode() 
 
-    if s in memo:
-        return memo[s]
-
-    for i in range(minSize-1, len(s)):
-        substring = s[0:i+1]
-        if substring in wordDict:
-            ret = bt(wordDict, minSize, memo, s[i+1:])
-            if ret:
-                return True
-
-    memo[s] = False 
-    return False
-
+    def insert(self, word):
+        curr = self.root
+        for char in word:
+            if char not in curr.children:
+                curr.children[char] = TrieNode(char)
+            curr = curr.children[char]
+        curr.is_end = True 
 
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        memo = {}
-        minSize = min([len(w) for w in wordDict])
-        wordDict = set(wordDict)
-        return bt(wordDict, minSize, memo, s)
+        trie = Trie()
+        for word in wordDict:
+            trie.insert(word)
+        n = len(s)
+        memo = [None] * 301 # 失败的例子
 
-print(Solution().wordBreak("aaaaaaaa", ["aaa", "aaaa"]))
+        def dfs(start):
+            if memo[start] is not None:
+                return memo[start]
+
+            if start == n:
+                return True
+                
+            curr = trie.root
+            for i in range(start, n):
+                if s[i] in curr.children:
+                    curr = curr.children[s[i]]
+                    if curr.is_end and dfs(i+1):
+                        return True 
+                else:
+                    break 
+            memo[start] = False
+            return False 
+
+
+        return dfs(0)
+
 # @lc code=end
 

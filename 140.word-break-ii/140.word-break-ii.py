@@ -5,36 +5,60 @@
 #
 
 # @lc code=start
-from typing import List 
+class TrieNode:
+    def __init__(self, char=""):
+        self.char = char
+        self.is_end = False 
+        self.children = {}
 
-def bt(ans, path, wordDict, minSize, s):
-    if len(s) == 0:
-        ans.append(' '.join(path))
-        return 
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
 
-    for i in range(minSize-1, len(s)):
-        if s[0:i+1] in wordDict:
-            path.append(s[0:i+1])
-        else:
-            continue
-                
-        bt(ans, path, wordDict, minSize, s[i+1:])
-        path.pop()
-
-
+    def insert(self, word):
+        curr = self.root
+        for char in word:
+            if char not in curr.children:
+                curr.children[char] = TrieNode(char)
+            curr = curr.children[char]
+        curr.is_end = True  
 
 class Solution:
-    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        ans, path = [], []
-        memo = {}
+    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+        n = len(s)
+        trie = Trie()
+        for word in wordDict:
+            trie.insert(word)
+        
+        ans = []
+        path = []
+        memo = [None] * 301
 
-        # prune
-        minSize = min([len(w) for w in wordDict])
-        wordDict = set(wordDict)
-        bt(ans, path, wordDict, minSize, s)
+        def dfs(start):
+            if memo[start] is not None:
+                return memo[start]
+
+            if start == n:
+                ans.append(' '.join(path))
+                return True
+
+            curr = trie.root
+            flag = False
+            for i in range(start, n):
+                if s[i] in curr.children:
+                    curr = curr.children[s[i]]
+                    if curr.is_end:
+                        path.append(s[start:i+1])
+                        flag = dfs(i+1)
+                        path.pop()
+                else:
+                    break
+            if flag == False:
+                memo[start] = flag
+            return flag
+
+        dfs(0)
         return ans
         
-print(Solution().wordBreak("catsanddog", ["cat","cats","and","sand","dog"]))
-
 # @lc code=end
 

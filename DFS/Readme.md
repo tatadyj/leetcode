@@ -20,8 +20,13 @@
 
 [93. Restore IP Addresses]() ()
 
-
 [131. Palindrome Partitioning]() (E)
+
+[139. Word Break]() ()
+
+[140. Word Break II]() ()
+
+[351*. Android Unlock Patterns]() ()
 
 [425*. Word Squares]() (M)
 

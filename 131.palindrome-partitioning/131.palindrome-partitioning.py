@@ -5,40 +5,32 @@
 #
 
 # @lc code=start
-from typing import List
-
-def isPalindrome(substring):
-    start, end = 0, len(substring)-1
+def is_palindrome(substring):
+    start, end = 0, len(substring) - 1
     while start < end:
         if substring[start] != substring[end]:
-            return False
-        start += 1
+            return False 
+        start += 1 
         end -= 1
     return True
 
-def bt(ans, substrings, s):
+def bt(ans, path, s):
     if len(s) == 0:
-        ans.append(substrings[:])
+        ans.append(path.copy())
         return 
 
     for i in range(len(s)):
-        if isPalindrome(s[0:i+1]):
-            substrings.append(s[0:i+1])
-        else:
-            continue
-
-        bt(ans, substrings, s[i+1:])
-        substrings.pop()
+        if is_palindrome(s[:i+1]): #[0, i]
+            path.append(s[:i+1])
+            bt(ans, path, s[i+1:])
+            path.pop()
 
 
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
-        ans, substrings = [], []
-        bt(ans, substrings, s)
-        return ans
-        
+        ans, path = [], []
+        bt(ans, path, s)
+        return ans 
 
-s = Solution()
-print(s.partition("aabb"))
 # @lc code=end
 
