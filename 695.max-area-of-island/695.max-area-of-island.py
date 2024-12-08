@@ -5,29 +5,30 @@
 #
 
 # @lc code=start
-def dfs(grid, m, n, i, j):
-    if i < 0 or j < 0 or i >= m or j >= n or grid[i][j] != 1: return 0
-    
-    grid[i][j] = -1
-    right = dfs(grid, m, n, i, j+1)
-    left = dfs(grid, m, n, i, j-1)
-    up = dfs(grid, m, n, i+1, j)
-    down = dfs(grid, m, n, i-1, j)
-    return right+left+up+down+1
-    
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        m = len(grid)
-        n = len(grid[0])
+        m, n = len(grid), len(grid[0])
+        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+
+        def dfs(grid, m, n, i, j):
+            #if i < 0 or j < 0 or i >= m or j >=n or grid[i][j] != 1:
+            #    return 0
+            
+            grid[i][j] = 0
+            count = 1
+            for direct in directions:
+                next_i, next_j = i + direct[0], j + direct[1]
+                if next_i < 0 or next_j < 0 or next_i >= m or next_j >=n or grid[next_i][next_j] != 1:
+                    continue 
+                count += dfs(grid, m, n, next_i, next_j)
+            return count
+
         res = 0 
-        
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 1:
-                    curr = dfs(grid, m, n, i, j)
-                    if curr > res:
-                        res = curr
-
-        return res
+                    count = dfs(grid, m, n, i, j)
+                    res = max(res, count)
+        return res 
 # @lc code=end
 

@@ -26,7 +26,7 @@
 
 [140. Word Break II]() ()
 
-[351*. Android Unlock Patterns]() ()
+
 
 [425*. Word Squares]() (M)
 
@@ -43,7 +43,7 @@
 [2850. Minimum Moves to Spread Stones Over Grid]() ()
 
 
-# Search in Array
+### DFS in Array
 
 [473. Matchsticks to Square]() (M, Similar to LC 698)
 
@@ -62,3 +62,13 @@
 [1723. Find Minimum Time to Finish All Jobs]() (M, Similar to LC 2305)
 
 [2305. Fair Distribution of Cookies]() (M)
+
+### DFS in 2D grid 
+
+[351*. Android Unlock Patterns](https://github.com/tatadyj/leetcode/tree/main/351.android-unlock-patterns) (E)
+
+
+#### Island 
+
+[695. Max Area of Island]() ()
+
