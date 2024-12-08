@@ -16,29 +16,32 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
-def binarySearch(curr):
-    if not curr:
-        return
-
-    if not curr.next:
-        return TreeNode(curr.val)
-
-    fast, slow, prev = curr, curr, None
-    while fast and fast.next:
-        prev = slow
-        slow = slow.next 
-        fast = fast.next.next
-    prev.next = None
-    root = TreeNode(slow.val)
-
-    root.left = binarySearch(curr)
-    root.right = binarySearch(slow.next)
-
-    return root
-
 class Solution:
     def sortedListToBST(self, head: Optional[ListNode]) -> Optional[TreeNode]:
-        return binarySearch(head)
+        if not head:
+            return 
+        
+        if not head.next:
+            root = TreeNode(head.val)
+            return root
+
+        if not head.next.next:
+            root = TreeNode(head.val)
+            root.right = TreeNode(head.next.val)
+            return root
+
+        fast, slow = head, head 
+        prev = None
+        while fast.next and fast.next.next:
+            fast = fast.next.next 
+            prev = slow
+            slow = slow.next
+        prev.next = None
+
+        root = TreeNode(slow.val)
+        root.left = self.sortedListToBST(head)
+        root.right = self.sortedListToBST(slow.next)
+
+        return root
 # @lc code=end
 
