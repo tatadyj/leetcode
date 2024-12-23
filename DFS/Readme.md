@@ -22,11 +22,11 @@
 
 [131. Palindrome Partitioning]() (E)
 
-[139. Word Break]() ()
+[139. Word Break]() (M)
 
-[140. Word Break II]() ()
+[140. Word Break II]() (M)
 
-
+[3213. Construct String with Minimum Cost]() (M, TLE, Similar to LC 140)
 
 [425*. Word Squares]() (M)
 
@@ -65,10 +65,33 @@
 
 ### DFS in 2D grid 
 
+[329. Longest Increasing Path in a Matrix]() (E)
+
+[2328. Number of Increasing Paths in a Grid]() ()
+
+[638. Shopping Offers]() ()
+
+[403. Frog Jump]() ()
+
+[1340. Jump Game V]() ()
+
+[2741. Special Permutations]() ()
+
+[2746. Decremental String Concatenation]() ()
+
 [351*. Android Unlock Patterns](https://github.com/tatadyj/leetcode/tree/main/351.android-unlock-patterns) (E)
 
 
 #### Island 
 
 [695. Max Area of Island]() ()
+
+
+# Hidden Grid
+
+[489*. Robot Room Cleaner]() (M)
+
+[1778*. Shortest Path in a Hidden Grid]() (M)
+
+[1810*. Minimum Path Cost in a Hidden Grid]() (M)
 
