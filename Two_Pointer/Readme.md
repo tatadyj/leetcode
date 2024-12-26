@@ -9,6 +9,8 @@
 
 [259*. 3Sum Smaller]() (E)
 
+[923. 3Sum With Multiplicity]() (M)
+
 [75. Sort Colors]() ()
 
 [26. Remove Duplicates from Sorted Array]() ()
@@ -17,8 +19,17 @@
 
 [88. Merge Sorted Array]() ()
 
+[283. Move Zeroes]() ()
 
+[360*. Sort Transformed Array]() ()
 
+[1564*. Put Boxes Into the Warehouse I]() (E)
+
+[1580*. Put Boxes Into the Warehouse II]() (E)
+
+[1574. Shortest Subarray to be Removed to Make Array Sorted]() (H)
+
+[1793. Maximum Score of a Good Subarray]() ()
 
 ### Min 
 [209. Minimum Size Subarray Sum]() (E)
@@ -27,7 +38,9 @@
 
 ### Sliding Window
 [713. Subarray Product Less Than K]() (E)
+
 [1498. Number of Subsequences That Satisfy the Given Sum Condition]() (M)
+
 [532. K-diff Pairs in an Array]() (E)
 
 
@@ -41,8 +54,6 @@
 [3258. Count Substrings That Satisfy K-Constraint I]() (E)
 
 [1234. Replace the Substring for Balanced String]() (H)
-[1574. Shortest Subarray to be Removed to Make Array Sorted]() (H)
-[1793. Maximum Score of a Good Subarray]()
 
 
 [424. Longest Repeating Character Replacement]() (E) 
@@ -103,5 +114,13 @@
 
 ### Two Sequences
 [1229. Meeting Scheduler]() (E)
-[1537. Get the Maximum Score]() 
-[1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers]() 
+
+[1537. Get the Maximum Score]() ()
+
+[1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers]() ()
+
+[1775. Equal Sum Arrays With Minimum Number of Operations]() ()
+
+[1868*. Product of Two Run-Length Encoded Arrays]() ()
+
+[2098*. Subsequence of Size K With the Largest Even Sum]() ()
