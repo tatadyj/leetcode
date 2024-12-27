@@ -27,3 +27,12 @@
 
 [1674. Minimum Moves to Make Array Complementary]() ()
 
+[798. Smallest Rotation with Highest Score]() ()
+
+[1893. Check if All the Integers in a Range Are Covered]() (E)
+
+[1943. Describe the Painting]() ()
+
+[2251. Number of Flowers in Full Bloom]() ()
+
+[2237. Count Positions on Street With Required Brightness]() (ß)
