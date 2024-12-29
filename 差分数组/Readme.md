@@ -9,6 +9,8 @@
 
 [759*. Employee Free Time]() ()
 
+[986. Interval List Intersections]() ()
+
 [3169. Count Days Without Meetings]() ()
 
 [1871. Jump Game VII]() ()
@@ -35,4 +37,8 @@
 
 [2251. Number of Flowers in Full Bloom]() ()
 
-[2237. Count Positions on Street With Required Brightness]() (ß)
+[2237. Count Positions on Street With Required Brightness]() (E)
+
+[2381. Shifting Letters II]() (E)
+
+[848. Shifting Letters]() (E)
